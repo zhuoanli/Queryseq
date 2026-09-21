@@ -1,4 +1,4 @@
-# QuerySeq — Finding-Specific MRI Evidence, Measured Without Selection Optimism
+# QuerySeq: Finding-Specific MRI Evidence, Measured Without Selection Optimism
 
 Code and result tables for *Not Every Finding Needs Every Sequence:
 Measuring Finding-Specific MRI Evidence with Nested Selection*.
