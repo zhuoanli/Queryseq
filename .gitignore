@@ -1,0 +1,13 @@
+# Image data and feature caches are never published: licensed
+# (MR-RATE CC BY-NC-SA 4.0, BraTS data-use terms) and hundreds of GB.
+data
+data_local/*
+!data_local/cohort_frozen_k5.json
+!data_local/cohort_frozen_k7.json
+logs/
+*.log
+*.out
+*.err
+__pycache__/
+*.pyc
+results/INVALID_*

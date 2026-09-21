@@ -1,0 +1,5 @@
+estimand,description,naive_or_oracle,crossfitted,optimism,n_seeds,n_candidates
+policy_oracle_gap,seed-averaged oracle minus seed-averaged cross-fitted,0.7784349497855327,0.7439695784291677,0.03446537135636507,3,31
+search_optimism,single-run naive best-of-K minus that run's cross-fitted,,,0.0366538834581143,3,31
+search_optimism_seed0,"the single-run figure for seed 0, as quoted in the null table",,,0.03429493579154619,1,31
+seed_averaging_reduction,how much averaging seeds before selecting shrinks the bias,,,0.0021885121017492307,3,31

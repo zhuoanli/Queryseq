@@ -1,0 +1,15 @@
+dataset,finding,event,prob,gap_lo,gap_hi
+mrrate,Cerebral hemorrhage,swi_first,0.5295,-0.01442447402214354,0.014681533225529122
+mrrate,Silent micro-hemorrhage of brain,swi_first,1.0,0.019402561227062534,0.06298871204628084
+mrrate,Cavernous hemangioma,swi_first,0.9785,0.0010192163864300556,0.0982257796440958
+mrrate,Subdural intracranial hemorrhage,swi_first,0.0515,-0.06263635235207281,0.006454801698425361
+mrrate,Cerebral atrophy,swi_last,0.9735,-0.010390942029391278,-0.0037285319819642033
+mrrate,Ventriculomegaly,swi_last,0.8935,-0.014596765771836863,-0.003182499589243435
+mrrate,Empty sella syndrome,swi_last,0.999,-0.06195097875120385,-0.02862169078695879
+mrrate,Mega cisterna magna,swi_last,0.7315,-0.08911814070821711,-0.025689965384446057
+mrrate,(joint),first_ge3_of_4,0.5425,,
+mrrate,(joint),last_all_4,0.639,,
+goat_burden,ET,t1c_first,1.0,0.038522411109805144,0.06673766421645165
+goat_burden,SNFH,t2f_first,0.977,0.00024001226198496078,0.022651403673440186
+goat_burden_perfold,ET,t1c_first,1.0,0.03891649722192678,0.06614154186828643
+goat_burden_perfold,SNFH,t2f_first,0.9275,-0.002733205397083616,0.020126244517418058

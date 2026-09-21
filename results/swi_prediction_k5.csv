@@ -1,0 +1,9 @@
+group,finding,evaluable,n_pos,swi_rank,swi_shapley,top_sequence,top_shapley
+haemorrhage,Cerebral hemorrhage,True,294,1,0.0751786658173545,SWIax,0.0751786658173545
+haemorrhage,Silent micro-hemorrhage of brain,True,195,1,0.0903709077719732,SWIax,0.0903709077719732
+haemorrhage,Cavernous hemangioma,True,78,1,0.0804448068779791,SWIax,0.0804448068779791
+haemorrhage,Subdural intracranial hemorrhage,True,44,2,0.081587913577966,FLAIRsag,0.1121037900666738
+control,Cerebral atrophy,True,1310,5,0.0806300309647878,FLAIRax,0.0872682680338225
+control,Ventriculomegaly,True,889,5,0.0764179958161391,FLAIRax,0.0836756856621755
+control,Empty sella syndrome,True,351,5,0.0183798397741355,T2ax,0.0609109215556904
+control,Mega cisterna magna,True,104,5,0.0192638936045115,T2ax,0.0759891104771474

@@ -1,0 +1,13 @@
+{
+  "thresholds_train_median": {
+    "ET": 16205.5,
+    "SNFH": 51113.5,
+    "NETC": 6710.0
+  },
+  "n_cases": 1351,
+  "targets": [
+    "ET",
+    "SNFH",
+    "NETC"
+  ]
+}

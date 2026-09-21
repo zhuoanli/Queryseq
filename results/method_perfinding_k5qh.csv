@@ -1,0 +1,1297 @@
+finding,n_pos,auroc,auprc,method,seed,axis,subset,k,budget
+Cerebral infarction,26,0.8052539565697461,0.14024317690574437,queryseq,0,availability,SWIax,1,-1
+Cerebral hemorrhage,20,0.8760688836104513,0.15174878101704806,queryseq,0,availability,SWIax,1,-1
+Gliosis,284,0.6909023344217555,0.509557911742899,queryseq,0,availability,SWIax,1,-1
+Cerebral atrophy,102,0.8396929824561402,0.4073132491424799,queryseq,0,availability,SWIax,1,-1
+Arachnoid cyst,43,0.678734701990516,0.08028586762719506,queryseq,0,availability,SWIax,1,-1
+Empty sella syndrome,45,0.6170270637834897,0.1097849794936992,queryseq,0,availability,SWIax,1,-1
+Cyst of pineal gland,21,0.7646792367363117,0.06484804698382762,queryseq,0,availability,SWIax,1,-1
+Cerebral edema,43,0.8976914558309907,0.4464770574776764,queryseq,0,availability,SWIax,1,-1
+Mastoiditis,22,0.6311688311688313,0.04341449597510223,queryseq,0,availability,SWIax,1,-1
+Ventriculomegaly,64,0.8376605576441103,0.3259943968813848,queryseq,0,availability,SWIax,1,-1
+Cerebellar degeneration,39,0.7822537931893946,0.12685116185754436,queryseq,0,availability,SWIax,1,-1
+Mega cisterna magna,22,0.601948051948052,0.043117582743352076,queryseq,0,availability,SWIax,1,-1
+Cerebral infarction,26,0.8137191755612809,0.22685901553590676,queryseq,0,availability,FLAIRsag,1,-1
+Cerebral hemorrhage,20,0.8540380047505938,0.178634782236004,queryseq,0,availability,FLAIRsag,1,-1
+Gliosis,284,0.7078378575953994,0.5481093812325702,queryseq,0,availability,FLAIRsag,1,-1
+Cerebral atrophy,102,0.9106037151702787,0.6730959656214852,queryseq,0,availability,FLAIRsag,1,-1
+Arachnoid cyst,43,0.6854360110174064,0.10975516788492051,queryseq,0,availability,FLAIRsag,1,-1
+Empty sella syndrome,45,0.6357949136406909,0.07850386518867011,queryseq,0,availability,FLAIRsag,1,-1
+Cyst of pineal gland,21,0.7438423645320197,0.05486486010836798,queryseq,0,availability,FLAIRsag,1,-1
+Cerebral edema,43,0.8899395178464946,0.4098644388441195,queryseq,0,availability,FLAIRsag,1,-1
+Mastoiditis,22,0.7037337662337662,0.05351290518206369,queryseq,0,availability,FLAIRsag,1,-1
+Ventriculomegaly,64,0.8661301691729323,0.3995726518195593,queryseq,0,availability,FLAIRsag,1,-1
+Cerebellar degeneration,39,0.7975200174471134,0.24327209866546298,queryseq,0,availability,FLAIRsag,1,-1
+Mega cisterna magna,22,0.5091991341991342,0.036726990370460025,queryseq,0,availability,FLAIRsag,1,-1
+Cerebral infarction,26,0.8291313949208686,0.3176782626019388,queryseq,0,availability,FLAIRax,1,-1
+Cerebral hemorrhage,20,0.8656175771971497,0.15767823219970645,queryseq,0,availability,FLAIRax,1,-1
+Gliosis,284,0.7073565963253571,0.5731940497279031,queryseq,0,availability,FLAIRax,1,-1
+Cerebral atrophy,102,0.9348684210526317,0.7096010793956326,queryseq,0,availability,FLAIRax,1,-1
+Arachnoid cyst,43,0.7270352386631457,0.11772030653408465,queryseq,0,availability,FLAIRax,1,-1
+Empty sella syndrome,45,0.635686114511084,0.08266654712455551,queryseq,0,availability,FLAIRax,1,-1
+Cyst of pineal gland,21,0.7412377555064833,0.06328673323192335,queryseq,0,availability,FLAIRax,1,-1
+Cerebral edema,43,0.9156941249964506,0.5445768550551988,queryseq,0,availability,FLAIRax,1,-1
+Mastoiditis,22,0.6695887445887446,0.052903732711596624,queryseq,0,availability,FLAIRax,1,-1
+Ventriculomegaly,64,0.8892152255639096,0.4100824523068983,queryseq,0,availability,FLAIRax,1,-1
+Cerebellar degeneration,39,0.8600180702246316,0.2856813121133245,queryseq,0,availability,FLAIRax,1,-1
+Mega cisterna magna,22,0.6830627705627705,0.0479899936443977,queryseq,0,availability,FLAIRax,1,-1
+Cerebral infarction,26,0.8459238130290763,0.22562186849350102,queryseq,0,availability,T2ax,1,-1
+Cerebral hemorrhage,20,0.8434085510688836,0.149031879524068,queryseq,0,availability,T2ax,1,-1
+Gliosis,284,0.722281787611482,0.5480314141780311,queryseq,0,availability,T2ax,1,-1
+Cerebral atrophy,102,0.9173503611971104,0.648778165808507,queryseq,0,availability,T2ax,1,-1
+Arachnoid cyst,43,0.7060226595110316,0.10161478597094387,queryseq,0,availability,T2ax,1,-1
+Empty sella syndrome,45,0.6445804433564531,0.099869955178573,queryseq,0,availability,T2ax,1,-1
+Cyst of pineal gland,21,0.7587905554611857,0.055814927072523134,queryseq,0,availability,T2ax,1,-1
+Cerebral edema,43,0.8617713036317688,0.34039830893935785,queryseq,0,availability,T2ax,1,-1
+Mastoiditis,22,0.6621753246753247,0.047523866868787235,queryseq,0,availability,T2ax,1,-1
+Ventriculomegaly,64,0.8871593045112782,0.3958132286506213,queryseq,0,availability,T2ax,1,-1
+Cerebellar degeneration,39,0.8297037106271614,0.2945184329888631,queryseq,0,availability,T2ax,1,-1
+Mega cisterna magna,22,0.6060606060606061,0.03326003152301423,queryseq,0,availability,T2ax,1,-1
+Cerebral infarction,26,0.8426573426573427,0.30446796533141113,queryseq,0,availability,T1ax,1,-1
+Cerebral hemorrhage,20,0.8448337292161521,0.17587311177993065,queryseq,0,availability,T1ax,1,-1
+Gliosis,284,0.6972562015692773,0.5376129027726095,queryseq,0,availability,T1ax,1,-1
+Cerebral atrophy,102,0.8896542827657379,0.5993908301864587,queryseq,0,availability,T1ax,1,-1
+Arachnoid cyst,43,0.6733111849390919,0.08695627156665911,queryseq,0,availability,T1ax,1,-1
+Empty sella syndrome,45,0.6246430028559773,0.07954404371402751,queryseq,0,availability,T1ax,1,-1
+Cyst of pineal gland,21,0.727025649736708,0.06307489538348764,queryseq,0,availability,T1ax,1,-1
+Cerebral edema,43,0.8769912258284351,0.46335533196204526,queryseq,0,availability,T1ax,1,-1
+Mastoiditis,22,0.6759199134199134,0.045930940410606046,queryseq,0,availability,T1ax,1,-1
+Ventriculomegaly,64,0.8711622807017545,0.3678717703653111,queryseq,0,availability,T1ax,1,-1
+Cerebellar degeneration,39,0.8071159298376797,0.2288910519805814,queryseq,0,availability,T1ax,1,-1
+Mega cisterna magna,22,0.5573593073593074,0.03434141353542157,queryseq,0,availability,T1ax,1,-1
+Cerebral infarction,26,0.8225524475524476,0.2382993382497764,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cerebral hemorrhage,20,0.8764845605700713,0.16790094050628218,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Gliosis,284,0.7045360397680199,0.5438322475133096,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cerebral atrophy,102,0.9105650154798761,0.6504052846493497,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Arachnoid cyst,43,0.6827100548030781,0.08184043100359427,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Empty sella syndrome,45,0.6261117911056712,0.08125533485861106,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cyst of pineal gland,21,0.7711341373648151,0.067909742231813,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cerebral edema,43,0.910242212567794,0.4649236960469587,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Mastoiditis,22,0.6692099567099568,0.05060871232118111,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Ventriculomegaly,64,0.8675203634085212,0.38284925337716524,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cerebellar degeneration,39,0.8134093528990248,0.24713315865436922,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Mega cisterna magna,22,0.5700216450216451,0.03895531150070405,queryseq,0,availability,FLAIRsag+SWIax,2,-1
+Cerebral infarction,26,0.8338240706661759,0.31821817214387865,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8739904988123515,0.15378337604910755,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Gliosis,284,0.7127905843364685,0.5663145308311708,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cerebral atrophy,102,0.9331914344685243,0.7078703297997472,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Arachnoid cyst,43,0.7013090268904222,0.08648680046263771,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Empty sella syndrome,45,0.6307357541139671,0.11152249449269645,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cyst of pineal gland,21,0.7680199309212388,0.07252038997761864,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cerebral edema,43,0.9180793366839878,0.5111052114914791,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Mastoiditis,22,0.6547619047619048,0.05366834139817889,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Ventriculomegaly,64,0.8880795739348372,0.4033288311657407,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cerebellar degeneration,39,0.8603607813814375,0.28657526029562574,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Mega cisterna magna,22,0.6432900432900432,0.05510971968638908,queryseq,0,availability,FLAIRax+SWIax,2,-1
+Cerebral infarction,26,0.8323518586676482,0.2963498195647182,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.870249406175772,0.17587452395761974,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Gliosis,284,0.713868853257956,0.5755271180248489,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.938390092879257,0.7303080121185095,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.7167561121049493,0.13628026296284357,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6372909016727866,0.07817931125097848,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7526753864447087,0.060819044952102136,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral edema,43,0.9142743561348213,0.5131006348819515,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Mastoiditis,22,0.6821969696969696,0.054942877709418955,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8890977443609023,0.41896429263405605,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8509206467894196,0.29640008015173064,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.6175865800865801,0.036454831733766006,queryseq,0,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8462918660287081,0.22244165202302327,queryseq,0,availability,T2ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8592636579572446,0.15851094211051617,queryseq,0,availability,T2ax+SWIax,2,-1
+Gliosis,284,0.7221904088893221,0.5429253942686659,queryseq,0,availability,T2ax+SWIax,2,-1
+Cerebral atrophy,102,0.9187822497420021,0.6421879089393042,queryseq,0,availability,T2ax+SWIax,2,-1
+Arachnoid cyst,43,0.7015929806627481,0.0872538692673752,queryseq,0,availability,T2ax+SWIax,2,-1
+Empty sella syndrome,45,0.6346797225622195,0.09724010833468769,queryseq,0,availability,T2ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7860257063586433,0.07088448367247734,queryseq,0,availability,T2ax+SWIax,2,-1
+Cerebral edema,43,0.8864184910696538,0.4181936019470595,queryseq,0,availability,T2ax+SWIax,2,-1
+Mastoiditis,22,0.648051948051948,0.048644237645598935,queryseq,0,availability,T2ax+SWIax,2,-1
+Ventriculomegaly,64,0.8858474310776943,0.4037762106134193,queryseq,0,availability,T2ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8310433996946757,0.2794737463685329,queryseq,0,availability,T2ax+SWIax,2,-1
+Mega cisterna magna,22,0.6150432900432901,0.038386099291533235,queryseq,0,availability,T2ax+SWIax,2,-1
+Cerebral infarction,26,0.8487302171512698,0.2688042473805669,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.870605700712589,0.1742049753036428,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Gliosis,284,0.7252119986354111,0.5555046146709269,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.930701754385965,0.6898643595703228,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.7010818638725616,0.11495588005813046,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6511627906976745,0.09023997065118063,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7557329709529471,0.05577125189409934,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cerebral edema,43,0.897606269699293,0.4462385889926642,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6869047619047619,0.052236705442572876,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8918193922305764,0.42395817071543385,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8345328223821541,0.2878861995765402,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.5817640692640692,0.03139869913709342,queryseq,0,availability,T2ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8425653294074347,0.33204481348565873,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.8601543942992874,0.14905298381879017,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Gliosis,284,0.7216604123007944,0.5622320609952686,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.9369969040247679,0.7064014711651206,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.717324019649601,0.10711931766472252,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.6434108527131783,0.0871596860964206,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7663212728611064,0.06503656457407153,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cerebral edema,43,0.9045631371212767,0.5160122436742537,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Mastoiditis,22,0.6746212121212122,0.051469479730297876,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.8970864661654135,0.42177561121836943,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.8510764245879677,0.2815476972453726,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6380952380952382,0.03712211086634451,queryseq,0,availability,T2ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8429333824070666,0.21372999808770013,queryseq,0,availability,T1ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8673396674584324,0.1644437384692251,queryseq,0,availability,T1ax+SWIax,2,-1
+Gliosis,284,0.707393147814221,0.5408071717348101,queryseq,0,availability,T1ax+SWIax,2,-1
+Cerebral atrophy,102,0.8979747162022704,0.5927431770610239,queryseq,0,availability,T1ax+SWIax,2,-1
+Arachnoid cyst,43,0.6808359599057273,0.08164938119696491,queryseq,0,availability,T1ax+SWIax,2,-1
+Empty sella syndrome,45,0.6181694546443628,0.08692579344947696,queryseq,0,availability,T1ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7603759696506426,0.0771738577046912,queryseq,0,availability,T1ax+SWIax,2,-1
+Cerebral edema,43,0.9003038305363886,0.5175707341287898,queryseq,0,availability,T1ax+SWIax,2,-1
+Mastoiditis,22,0.6526515151515151,0.04325320958612071,queryseq,0,availability,T1ax+SWIax,2,-1
+Ventriculomegaly,64,0.8749608395989975,0.3838693637938931,queryseq,0,availability,T1ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8234414431255257,0.21617063364603417,queryseq,0,availability,T1ax+SWIax,2,-1
+Mega cisterna magna,22,0.589556277056277,0.03954104905376137,queryseq,0,availability,T1ax+SWIax,2,-1
+Cerebral infarction,26,0.8362624217887376,0.28245232112012886,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8606294536817102,0.1851833568981754,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Gliosis,284,0.7073444124957358,0.5647320443708317,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9197626418988649,0.690464917469304,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.6848681034727546,0.13666082634738985,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6474364205086358,0.08282210671486881,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7378970613215559,0.061997980808450315,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cerebral edema,43,0.9032001590141125,0.4984962774292007,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6991341991341992,0.052047128298422264,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8774083646616542,0.3974150947884815,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8173037978627287,0.29616615963571746,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.5478354978354978,0.047539597387384114,queryseq,0,availability,T1ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8383327199116672,0.3267417118678324,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.8586104513064132,0.157828747944054,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Gliosis,284,0.7101893367123154,0.5702998512363828,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.9321207430340558,0.7070870542498058,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.7060794502654968,0.10977012743187425,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.6316605467156262,0.07778949281959613,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7352358303606817,0.06400481854659221,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cerebral edema,43,0.9135928670812392,0.5623334892716055,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Mastoiditis,22,0.6759199134199133,0.055273268171985815,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.8923872180451128,0.41142586235925915,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.8537869582827056,0.28296424852890445,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6357683982683983,0.041588672720362416,queryseq,0,availability,T1ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8594037541405963,0.2755301114613717,queryseq,0,availability,T1ax+T2ax,2,-1
+Cerebral hemorrhage,20,0.8557007125890737,0.1776350490173092,queryseq,0,availability,T1ax+T2ax,2,-1
+Gliosis,284,0.7235062624884253,0.5576805176647675,queryseq,0,availability,T1ax+T2ax,2,-1
+Cerebral atrophy,102,0.922561919504644,0.6592951061426182,queryseq,0,availability,T1ax+T2ax,2,-1
+Arachnoid cyst,43,0.7026436096203539,0.09910693873463437,queryseq,0,availability,T1ax+T2ax,2,-1
+Empty sella syndrome,45,0.643030055759554,0.0940689800471331,queryseq,0,availability,T1ax+T2ax,2,-1
+Cyst of pineal gland,21,0.7633769322235434,0.06384324453468061,queryseq,0,availability,T1ax+T2ax,2,-1
+Cerebral edema,43,0.8852258852258852,0.4680184076378555,queryseq,0,availability,T1ax+T2ax,2,-1
+Mastoiditis,22,0.6771103896103896,0.049277992895522094,queryseq,0,availability,T1ax+T2ax,2,-1
+Ventriculomegaly,64,0.8926613408521303,0.41663407992666157,queryseq,0,availability,T1ax+T2ax,2,-1
+Cerebellar degeneration,39,0.8341589556656385,0.29869231898873444,queryseq,0,availability,T1ax+T2ax,2,-1
+Mega cisterna magna,22,0.5876623376623377,0.032101147494734014,queryseq,0,availability,T1ax+T2ax,2,-1
+Cerebral infarction,26,0.8350202429149798,0.29212217403389396,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8780285035629454,0.16849175273741657,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7158487255714217,0.5704628512242998,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9364680082559339,0.7211831246121558,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6971916971916972,0.08672408890705939,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6323949408404733,0.08197223966966284,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7701149425287356,0.07027550738678023,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9171422892353125,0.5049384141984915,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6676948051948052,0.054921944910488005,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8875117481203008,0.41068724731749995,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8526965136928685,0.3018395806167497,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.6098484848484849,0.056745281252663746,queryseq,0,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8455097534044903,0.2593710743559185,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.87541567695962,0.16618084210633807,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7243895901359716,0.5551810431832055,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9294246646026831,0.6794295460467503,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6980151631314422,0.08654920987725144,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6378892968856249,0.08433553668110874,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7848932676518884,0.07019124734793027,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9041656018400205,0.4720098690938837,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6668831168831169,0.05149758661698972,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8888236215538847,0.4134698945192799,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8336604667102845,0.2793490527508031,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.5919372294372295,0.036462619189382484,queryseq,0,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8429793890320205,0.32290897713319944,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8665083135391924,0.14972840304316132,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.7226107510112578,0.5635772852244743,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9354747162022704,0.706622473420117,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.7093733140244769,0.09140398815649316,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.6372637018903848,0.09594561189801393,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7821754147556763,0.07382737900393575,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.9069767441860465,0.49084131234826955,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.6601190476190476,0.052345525577073455,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.8938557330827067,0.40887697161747166,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.85088949122971,0.28720099160097595,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.6321969696969697,0.04293151440690203,queryseq,0,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8444516010305484,0.3136103273860752,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8712589073634205,0.1688057817900804,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7227508650519032,0.5660503683605136,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.939499484004128,0.7182482581018177,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.7134906437232018,0.12418263494861272,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6460220318237453,0.08435188156419689,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7667742483438084,0.06500553386014499,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.9094755373825142,0.5021698579824466,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6852813852813854,0.053575006549319196,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.895500469924812,0.4226259752044113,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8476804685796181,0.3021937793601895,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6141233766233766,0.03490820628695156,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8395288921604711,0.27757110090857195,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8725653206650832,0.1711786941322142,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7113163409522882,0.5576515769950405,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9182533539731682,0.6750051925025643,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6827384501803107,0.0821664978508956,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6239358085135318,0.0801378237737122,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7619613838400996,0.07201714917927156,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9109804923758412,0.5111927493284998,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6705627705627706,0.047851519497836864,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8779370300751881,0.40219486742642324,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8252796211483939,0.28854665392369716,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.5672077922077922,0.041059008713169254,queryseq,0,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8406790577843208,0.33245186064737586,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8683491686460808,0.155215276299766,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.7143440226131879,0.5673000810587263,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9307146542827658,0.7011165401893289,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.6971633018144646,0.08718324447212684,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.6276077791377669,0.08859473134967644,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7585074457844968,0.07384979327633638,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.9149558451884034,0.5389079174761099,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.6596320346320347,0.05317326299842179,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.891016604010025,0.41044995045037425,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.8536000249244478,0.2923360525272579,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.622564935064935,0.05163378107585216,queryseq,0,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8380106735369893,0.3139619441077834,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8665083135391924,0.16981105752084957,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7144171255909157,0.5748112843144855,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9354876160990713,0.716723554828633,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.7050572166851237,0.13444053223579766,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6368013055895553,0.07855406510632088,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7432195232433044,0.0631077471929796,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.9156373342419853,0.5480401932772877,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6852272727272728,0.054997639529722114,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.8907229010025063,0.41900032743195814,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8482412686543914,0.3109517860734004,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.604491341991342,0.03678842141369659,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.854343025395657,0.26309176077186397,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8621140142517815,0.16961125109856065,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Gliosis,284,0.7236890199327453,0.5518107238370564,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral atrophy,102,0.9230134158926728,0.6558788826990521,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Arachnoid cyst,43,0.6996336996336996,0.0880377815042592,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Empty sella syndrome,45,0.6322861417108664,0.08930001303514118,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cyst of pineal gland,21,0.7783251231527093,0.07382812901542837,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral edema,43,0.8940852429224522,0.4746239030052687,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Mastoiditis,22,0.6597943722943723,0.048555467651758735,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Ventriculomegaly,64,0.8903312969924813,0.41155427224002145,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cerebellar degeneration,39,0.8338474000685422,0.28723668879629166,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Mega cisterna magna,22,0.6018398268398268,0.0369424491573808,queryseq,0,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral infarction,26,0.8550331247699668,0.3076310957621783,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8678741092636579,0.1753096934250727,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Gliosis,284,0.7249256786393098,0.5648511547303776,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9311274509803922,0.6922261215130725,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.6992929551069087,0.10390017536112162,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6494764041887665,0.08864443880894579,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7615650302927354,0.0618412041135689,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral edema,43,0.9014112502484596,0.4760987464803578,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mastoiditis,22,0.6885822510822511,0.051337766467452306,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.893170426065163,0.4321038351674039,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8345951335015733,0.30643800274050675,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.5752164502164502,0.03231422181339213,queryseq,0,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8490062569009937,0.3398185286398814,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral hemorrhage,20,0.8595011876484561,0.16061177480510588,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Gliosis,284,0.7219101808080316,0.567208273010666,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral atrophy,102,0.9352038183694531,0.7023167356329382,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Arachnoid cyst,43,0.710253570718687,0.10341311647697891,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Empty sella syndrome,45,0.6423772609819122,0.0862822536470551,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cyst of pineal gland,21,0.7624709812581394,0.06677691782663116,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral edema,43,0.9060113013601385,0.5288858023255898,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Mastoiditis,22,0.6800865800865801,0.052772293123956066,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Ventriculomegaly,64,0.8978109335839599,0.4227953040891497,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebellar degeneration,39,0.8482412686543914,0.29843210111544205,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Mega cisterna magna,22,0.6186688311688312,0.03553159134355169,queryseq,0,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral infarction,26,0.8443595877806404,0.3026832556038558,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8737529691211402,0.16281548304782864,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.723963156099225,0.5664017348577579,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9383900928792569,0.7152097803791547,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.7067325439418463,0.09155178897454014,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6397116823065416,0.08445169809939428,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7807032444368948,0.07195253007268497,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9119459352017492,0.4931410632895056,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6687770562770563,0.05339505072225373,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8936795112781954,0.4158856939422777,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8482101130946818,0.30660304844508524,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6111471861471861,0.04529141124183072,queryseq,0,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8399889584100111,0.31213280417540834,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.872624703087886,0.17220665061219265,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7166772259856717,0.5729582794755178,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.933875128998968,0.7106295557051511,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.6956299514439048,0.08692996574299042,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6305997552019583,0.08125247471776034,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7613385425513844,0.07164024626687181,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9165175909361956,0.5271274042710573,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6695887445887445,0.05418260167871408,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8897634711779449,0.4137957697243127,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8486151353709069,0.3097862545867824,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.600108225108225,0.05612916043933969,queryseq,0,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8519966875230034,0.2989013455125065,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8725059382422802,0.1693004462200524,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7240484429065743,0.5557305430068902,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9297600619195047,0.6899962622245773,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.6969645341738366,0.08700978955496444,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6357677138582891,0.08414658135222941,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7768529528339279,0.07261443866370607,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9060113013601385,0.49035257456405074,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6727272727272726,0.051272547502244095,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8909970238095237,0.4204808376602676,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8345328223821541,0.30243946397191573,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.5865259740259741,0.03693871807047727,queryseq,0,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8495583364004416,0.3363011596839413,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral hemorrhage,20,0.8647862232779098,0.15712532790012548,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Gliosis,284,0.7229092548369804,0.5668450133294264,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral atrophy,102,0.9343137254901961,0.7044184629909703,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Arachnoid cyst,43,0.7055967288525428,0.09098106658014377,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Empty sella syndrome,45,0.635142118863049,0.0889406160861678,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cyst of pineal gland,21,0.773851990261027,0.07423520797585605,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral edema,43,0.9075730471079309,0.509007865684929,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mastoiditis,22,0.6653679653679653,0.051963452538762576,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Ventriculomegaly,64,0.895500469924812,0.41475126049330063,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebellar degeneration,39,0.8484282020126491,0.29379836758831446,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mega cisterna magna,22,0.6189935064935065,0.04078112747815284,queryseq,0,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral infarction,26,0.8474420316525579,0.33103588276495305,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral hemorrhage,20,0.8691805225653206,0.17200814205367188,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Gliosis,284,0.7227204054778498,0.5700372443469008,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral atrophy,102,0.9376031991744067,0.7155053539336125,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Arachnoid cyst,43,0.7082658943124059,0.11132687497787139,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Empty sella syndrome,45,0.6448796409628723,0.08353671439064145,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cyst of pineal gland,21,0.7624709812581393,0.06572863366769642,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral edema,43,0.9106965386035153,0.5220629360688296,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mastoiditis,22,0.6863636363636364,0.053545507133119015,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Ventriculomegaly,64,0.8958137531328321,0.42564930475827445,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebellar degeneration,39,0.8467146462286195,0.3073636603120759,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mega cisterna magna,22,0.6027597402597402,0.03440419939493118,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral infarction,26,0.8476260581523739,0.3180408843319199,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral hemorrhage,20,0.871021377672209,0.16623010587311293,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Gliosis,284,0.7238900531214972,0.5702818986725268,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral atrophy,102,0.936609907120743,0.7117370582681839,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Arachnoid cyst,43,0.7033250986739359,0.09069291356061358,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Empty sella syndrome,45,0.6358765129878962,0.08214489060081673,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cyst of pineal gland,21,0.7730026612309608,0.07181756760364767,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral edema,43,0.9128829826504244,0.5133842453201685,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mastoiditis,22,0.6737554112554113,0.05377369955381805,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Ventriculomegaly,64,0.8945606203007519,0.42074115948992613,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebellar degeneration,39,0.8466834906689099,0.30841549890902986,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mega cisterna magna,22,0.6022186147186147,0.04230148503946193,queryseq,0,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral infarction,26,0.8392988590357011,0.2870744592338013,queryseq,0,budget,allinputs,1,1
+Cerebral hemorrhage,20,0.8669239904988124,0.1553866817126368,queryseq,0,budget,allinputs,1,1
+Gliosis,284,0.7150506847312248,0.5521640665843273,queryseq,0,budget,allinputs,1,1
+Cerebral atrophy,102,0.9362874097007223,0.7043354978465641,queryseq,0,budget,allinputs,1,1
+Arachnoid cyst,43,0.6981855353948377,0.0890485683998769,queryseq,0,budget,allinputs,1,1
+Empty sella syndrome,45,0.629810961512308,0.0967918741301001,queryseq,0,budget,allinputs,1,1
+Cyst of pineal gland,21,0.7683596625332654,0.06903089343372928,queryseq,0,budget,allinputs,1,1
+Cerebral edema,43,0.9109804923758412,0.49350725471710677,queryseq,0,budget,allinputs,1,1
+Mastoiditis,22,0.6317640692640693,0.045393888250477826,queryseq,0,budget,allinputs,1,1
+Ventriculomegaly,64,0.891466948621554,0.4304728867637023,queryseq,0,budget,allinputs,1,1
+Cerebellar degeneration,39,0.8577437143658286,0.2676602723690704,queryseq,0,budget,allinputs,1,1
+Mega cisterna magna,22,0.6427489177489177,0.04034537350039939,queryseq,0,budget,allinputs,1,1
+Cerebral infarction,26,0.8411851306588148,0.2988819284722681,queryseq,0,budget,allinputs,2,2
+Cerebral hemorrhage,20,0.8767220902612827,0.17610410820707623,queryseq,0,budget,allinputs,2,2
+Gliosis,284,0.7217883425118183,0.5692916395778168,queryseq,0,budget,allinputs,2,2
+Cerebral atrophy,102,0.9375,0.7125104574588667,queryseq,0,budget,allinputs,2,2
+Arachnoid cyst,43,0.7047732629127978,0.10457776326298793,queryseq,0,budget,allinputs,2,2
+Empty sella syndrome,45,0.6516523867809058,0.09389631726705351,queryseq,0,budget,allinputs,2,2
+Cyst of pineal gland,21,0.7714738689768416,0.0635608195318534,queryseq,0,budget,allinputs,2,2
+Cerebral edema,43,0.9129965641593549,0.5012894907839083,queryseq,0,budget,allinputs,2,2
+Mastoiditis,22,0.668939393939394,0.053146941971606465,queryseq,0,budget,allinputs,2,2
+Ventriculomegaly,64,0.8917019110275689,0.4237841997106411,queryseq,0,budget,allinputs,2,2
+Cerebellar degeneration,39,0.8503598467146462,0.308146727602716,queryseq,0,budget,allinputs,2,2
+Mega cisterna magna,22,0.6275974025974026,0.035946342806515964,queryseq,0,budget,allinputs,2,2
+Cerebral infarction,26,0.8533768862716231,0.31641738368766287,queryseq,0,budget,allinputs,3,3
+Cerebral hemorrhage,20,0.8762470308788598,0.17188876070930106,queryseq,0,budget,allinputs,3,3
+Gliosis,284,0.7237925824845266,0.5715592906793232,queryseq,0,budget,allinputs,3,3
+Cerebral atrophy,102,0.9354102167182663,0.7129966930295116,queryseq,0,budget,allinputs,3,3
+Arachnoid cyst,43,0.7155351108839481,0.09654592849383588,queryseq,0,budget,allinputs,3,3
+Empty sella syndrome,45,0.6452332381340949,0.09973562600884096,queryseq,0,budget,allinputs,3,3
+Cyst of pineal gland,21,0.7681331747919143,0.07391247914387197,queryseq,0,budget,allinputs,3,3
+Cerebral edema,43,0.9137632393446347,0.5156991466906512,queryseq,0,budget,allinputs,3,3
+Mastoiditis,22,0.6667207792207792,0.05255570503498053,queryseq,0,budget,allinputs,3,3
+Ventriculomegaly,64,0.8936990914786967,0.420426314402547,queryseq,0,budget,allinputs,3,3
+Cerebellar degeneration,39,0.8520734024986759,0.31518381603493945,queryseq,0,budget,allinputs,3,3
+Mega cisterna magna,22,0.6371212121212121,0.039396353631173935,queryseq,0,budget,allinputs,3,3
+Cerebral infarction,26,0.8494663231505337,0.3105592515705544,queryseq,0,budget,allinputs,4,4
+Cerebral hemorrhage,20,0.8794536817102137,0.1737541290039093,queryseq,0,budget,allinputs,4,4
+Gliosis,284,0.7209720259271895,0.570188765625643,queryseq,0,budget,allinputs,4,4
+Cerebral atrophy,102,0.9335268317853458,0.7061707556317234,queryseq,0,budget,allinputs,4,4
+Arachnoid cyst,43,0.7104523383593151,0.09553339643370486,queryseq,0,budget,allinputs,4,4
+Empty sella syndrome,45,0.6490140078879368,0.1026849430756191,queryseq,0,budget,allinputs,4,4
+Cyst of pineal gland,21,0.7629805786761792,0.07097496702217229,queryseq,0,budget,allinputs,4,4
+Cerebral edema,43,0.9110940738847715,0.514959663867258,queryseq,0,budget,allinputs,4,4
+Mastoiditis,22,0.6751623376623377,0.051120327756021926,queryseq,0,budget,allinputs,4,4
+Ventriculomegaly,64,0.8928963032581454,0.424075010889454,queryseq,0,budget,allinputs,4,4
+Cerebellar degeneration,39,0.8349066890986697,0.2833365730617139,queryseq,0,budget,allinputs,4,4
+Mega cisterna magna,22,0.6170454545454546,0.057717009671125356,queryseq,0,budget,allinputs,4,4
+Cerebral infarction,26,0.8455097534044902,0.31141909376764043,queryseq,0,budget,allinputs,5,5
+Cerebral hemorrhage,20,0.8703681710213778,0.16738497860388676,queryseq,0,budget,allinputs,5,5
+Gliosis,284,0.7231772990886496,0.567370376626578,queryseq,0,budget,allinputs,5,5
+Cerebral atrophy,102,0.9310887512899897,0.690193476839376,queryseq,0,budget,allinputs,5,5
+Arachnoid cyst,43,0.7004287701962121,0.09516023548336267,queryseq,0,budget,allinputs,5,5
+Empty sella syndrome,45,0.6508091935264517,0.09148269411884133,queryseq,0,budget,allinputs,5,5
+Cyst of pineal gland,21,0.7631504444821925,0.06945603675270064,queryseq,0,budget,allinputs,5,5
+Cerebral edema,43,0.9080557685208848,0.5135338688492094,queryseq,0,budget,allinputs,5,5
+Mastoiditis,22,0.6845238095238095,0.05234865448204985,queryseq,0,budget,allinputs,5,5
+Ventriculomegaly,64,0.89109492481203,0.41961405552059294,queryseq,0,budget,allinputs,5,5
+Cerebellar degeneration,39,0.8378664672710845,0.2789418517254233,queryseq,0,budget,allinputs,5,5
+Mega cisterna magna,22,0.5995129870129869,0.03582811518857739,queryseq,0,budget,allinputs,5,5
+Cerebral infarction,26,0.7938443135811557,0.1288575559896489,queryseq,1,availability,SWIax,1,-1
+Cerebral hemorrhage,20,0.8700712589073634,0.14012494051402463,queryseq,1,availability,SWIax,1,-1
+Gliosis,284,0.6856754715142064,0.5377801754908716,queryseq,1,availability,SWIax,1,-1
+Cerebral atrophy,102,0.8326367389060887,0.4193942608522544,queryseq,1,availability,SWIax,1,-1
+Arachnoid cyst,43,0.6855211971491042,0.08415914482441403,queryseq,1,availability,SWIax,1,-1
+Empty sella syndrome,45,0.599891200870393,0.09147668560271767,queryseq,1,availability,SWIax,1,-1
+Cyst of pineal gland,21,0.7332540626238604,0.057878707024177196,queryseq,1,availability,SWIax,1,-1
+Cerebral edema,43,0.8899679132237271,0.4327186751188965,queryseq,1,availability,SWIax,1,-1
+Mastoiditis,22,0.6008658008658009,0.04996849427808749,queryseq,1,availability,SWIax,1,-1
+Ventriculomegaly,64,0.8292019110275689,0.31129549353373714,queryseq,1,availability,SWIax,1,-1
+Cerebellar degeneration,39,0.771193569492476,0.14447133600819315,queryseq,1,availability,SWIax,1,-1
+Mega cisterna magna,22,0.6208874458874459,0.04595378964455685,queryseq,1,availability,SWIax,1,-1
+Cerebral infarction,26,0.8150073610599927,0.2482385801859394,queryseq,1,availability,FLAIRsag,1,-1
+Cerebral hemorrhage,20,0.8581947743467934,0.17456358269252414,queryseq,1,availability,FLAIRsag,1,-1
+Gliosis,284,0.7174204395925727,0.5655516333158603,queryseq,1,availability,FLAIRsag,1,-1
+Cerebral atrophy,102,0.9209623323013416,0.6724868064641512,queryseq,1,availability,FLAIRsag,1,-1
+Arachnoid cyst,43,0.669534599767158,0.08361801112956249,queryseq,1,availability,FLAIRsag,1,-1
+Empty sella syndrome,45,0.6018767849857201,0.07097255405421414,queryseq,1,availability,FLAIRsag,1,-1
+Cyst of pineal gland,21,0.7192684445954363,0.04829354702504696,queryseq,1,availability,FLAIRsag,1,-1
+Cerebral edema,43,0.8975778743220603,0.45598682353761943,queryseq,1,availability,FLAIRsag,1,-1
+Mastoiditis,22,0.6953463203463204,0.05319236687175538,queryseq,1,availability,FLAIRsag,1,-1
+Ventriculomegaly,64,0.8678728070175439,0.3977169506357576,queryseq,1,availability,FLAIRsag,1,-1
+Cerebellar degeneration,39,0.8116023304358663,0.29756141463614644,queryseq,1,availability,FLAIRsag,1,-1
+Mega cisterna magna,22,0.5292207792207791,0.03549755816774883,queryseq,1,availability,FLAIRsag,1,-1
+Cerebral infarction,26,0.8275211630474789,0.32120217755893093,queryseq,1,availability,FLAIRax,1,-1
+Cerebral hemorrhage,20,0.8584323040380049,0.15391418694969763,queryseq,1,availability,FLAIRax,1,-1
+Gliosis,284,0.7058884448559872,0.578324779821737,queryseq,1,availability,FLAIRax,1,-1
+Cerebral atrophy,102,0.9303663570691434,0.6941028249178413,queryseq,1,availability,FLAIRax,1,-1
+Arachnoid cyst,43,0.7205043018996506,0.10688348160390657,queryseq,1,availability,FLAIRax,1,-1
+Empty sella syndrome,45,0.6054399564803482,0.07949254778331084,queryseq,1,availability,FLAIRax,1,-1
+Cyst of pineal gland,21,0.6979785969084423,0.046585812396759296,queryseq,1,availability,FLAIRax,1,-1
+Cerebral edema,43,0.9013828548712268,0.5566614891384803,queryseq,1,availability,FLAIRax,1,-1
+Mastoiditis,22,0.6595779220779221,0.05859438576273011,queryseq,1,availability,FLAIRax,1,-1
+Ventriculomegaly,64,0.8899592731829574,0.4033564099069551,queryseq,1,availability,FLAIRax,1,-1
+Cerebellar degeneration,39,0.8571829142910552,0.3084319304357166,queryseq,1,availability,FLAIRax,1,-1
+Mega cisterna magna,22,0.6930194805194805,0.04973393186710124,queryseq,1,availability,FLAIRax,1,-1
+Cerebral infarction,26,0.8460158262789841,0.20622136513480863,queryseq,1,availability,T2ax,1,-1
+Cerebral hemorrhage,20,0.8449524940617577,0.141658976072376,queryseq,1,availability,T2ax,1,-1
+Gliosis,284,0.7261318777718213,0.5655968974538064,queryseq,1,availability,T2ax,1,-1
+Cerebral atrophy,102,0.919233746130031,0.6444970754871532,queryseq,1,availability,T2ax,1,-1
+Arachnoid cyst,43,0.6938694380554845,0.10266043025784313,queryseq,1,availability,T2ax,1,-1
+Empty sella syndrome,45,0.6133006935944513,0.11117439675454177,queryseq,1,availability,T2ax,1,-1
+Cyst of pineal gland,21,0.7012060472226941,0.04280263626884848,queryseq,1,availability,T2ax,1,-1
+Cerebral edema,43,0.861061419200954,0.351538127815699,queryseq,1,availability,T2ax,1,-1
+Mastoiditis,22,0.6547619047619047,0.056403686670095786,queryseq,1,availability,T2ax,1,-1
+Ventriculomegaly,64,0.885906171679198,0.3789969940776155,queryseq,1,availability,T2ax,1,-1
+Cerebellar degeneration,39,0.8410754899211764,0.3281589802811818,queryseq,1,availability,T2ax,1,-1
+Mega cisterna magna,22,0.645508658008658,0.04092509843378732,queryseq,1,availability,T2ax,1,-1
+Cerebral infarction,26,0.8395748987854251,0.2483003825057876,queryseq,1,availability,T1ax,1,-1
+Cerebral hemorrhage,20,0.8472684085510689,0.16484773384178025,queryseq,1,availability,T1ax,1,-1
+Gliosis,284,0.7024465129879622,0.5597843233480894,queryseq,1,availability,T1ax,1,-1
+Cerebral atrophy,102,0.8976006191950463,0.5967207185383561,queryseq,1,availability,T1ax,1,-1
+Arachnoid cyst,43,0.6775988869012124,0.08125648544541603,queryseq,1,availability,T1ax,1,-1
+Empty sella syndrome,45,0.5837889296885624,0.08088933015685199,queryseq,1,availability,T1ax,1,-1
+Cyst of pineal gland,21,0.7107185323594359,0.058319197925148995,queryseq,1,availability,T1ax,1,-1
+Cerebral edema,43,0.8906777976545419,0.46807557768674796,queryseq,1,availability,T1ax,1,-1
+Mastoiditis,22,0.666991341991342,0.05362877696636581,queryseq,1,availability,T1ax,1,-1
+Ventriculomegaly,64,0.8747258771929824,0.32892214074118487,queryseq,1,availability,T1ax,1,-1
+Cerebellar degeneration,39,0.8172414867433092,0.27171513195560776,queryseq,1,availability,T1ax,1,-1
+Mega cisterna magna,22,0.6275974025974025,0.042220427078958477,queryseq,1,availability,T1ax,1,-1
+Cerebral infarction,26,0.8144092749355907,0.228493129704832,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cerebral hemorrhage,20,0.882897862232779,0.1505414953387503,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Gliosis,284,0.704858911252985,0.5734969548302704,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cerebral atrophy,102,0.9202915376676987,0.6598704744153346,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Arachnoid cyst,43,0.6851804526223131,0.08625001351818062,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Empty sella syndrome,45,0.5962736298109614,0.07175966962075328,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cyst of pineal gland,21,0.739255987769662,0.06027712763266266,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cerebral edema,43,0.9064940227730925,0.45970405356312555,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Mastoiditis,22,0.6323593073593075,0.04792376275395133,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Ventriculomegaly,64,0.8681665100250626,0.39044978272191005,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cerebellar degeneration,39,0.8274293547683584,0.29802239976411515,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Mega cisterna magna,22,0.604491341991342,0.041115911255077096,queryseq,1,availability,FLAIRsag+SWIax,2,-1
+Cerebral infarction,26,0.8316617592933382,0.3273382849142386,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8658551068883611,0.1460852665833263,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Gliosis,284,0.71280276816609,0.5933590114824446,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cerebral atrophy,102,0.9305598555211558,0.6934899299294813,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Arachnoid cyst,43,0.7025016327341909,0.0919104297350646,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Empty sella syndrome,45,0.5996464028287773,0.08369250387601672,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cyst of pineal gland,21,0.7291772832795425,0.057177718799798855,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cerebral edema,43,0.9035692989181361,0.5063616230952276,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Mastoiditis,22,0.6272186147186146,0.05776845487049008,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Ventriculomegaly,64,0.8918977130325815,0.4141957799463322,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cerebellar degeneration,39,0.8579929588435057,0.31136880807583894,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Mega cisterna magna,22,0.6622835497835499,0.04851994616400867,queryseq,1,availability,FLAIRax+SWIax,2,-1
+Cerebral infarction,26,0.8318457857931543,0.321444269335822,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8685273159144893,0.17030320427654896,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Gliosis,284,0.7142160924021639,0.5822229882518082,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9376676986584106,0.7231879984536824,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.7098276400601983,0.10697412407575138,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6058751529987759,0.07303718007146967,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.711850971066191,0.04732578639617782,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral edema,43,0.9071755118266746,0.5548134587382875,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Mastoiditis,22,0.6704004329004329,0.05307178299215725,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8907424812030075,0.409460199696223,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8570894476119264,0.31906809053691304,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.6413419913419913,0.03802186986702055,queryseq,1,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8464758925285242,0.2252863926623571,queryseq,1,availability,T2ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8638361045130641,0.15143256385375115,queryseq,1,availability,T2ax+SWIax,2,-1
+Gliosis,284,0.7268080803158049,0.5777366552704544,queryseq,1,availability,T2ax+SWIax,2,-1
+Cerebral atrophy,102,0.9205237358101135,0.6271028826654585,queryseq,1,availability,T2ax+SWIax,2,-1
+Arachnoid cyst,43,0.6968793480421387,0.08867142699800284,queryseq,1,availability,T2ax+SWIax,2,-1
+Empty sella syndrome,45,0.5976336189310485,0.088929688421791,queryseq,1,availability,T2ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7344997452012909,0.050236238826649,queryseq,1,availability,T2ax+SWIax,2,-1
+Cerebral edema,43,0.8832382088196042,0.4144599664177515,queryseq,1,availability,T2ax+SWIax,2,-1
+Mastoiditis,22,0.6279761904761905,0.058420757944732234,queryseq,1,availability,T2ax+SWIax,2,-1
+Ventriculomegaly,64,0.8867285401002506,0.3977786786415325,queryseq,1,availability,T2ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8411378010405957,0.3183466587081642,queryseq,1,availability,T2ax+SWIax,2,-1
+Mega cisterna magna,22,0.6425865800865801,0.04487183517061649,queryseq,1,availability,T2ax+SWIax,2,-1
+Cerebral infarction,26,0.8482701509017299,0.23907192289220622,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.865498812351544,0.15498040508422484,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Gliosis,284,0.72951898240655,0.5718014412646638,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9292569659442724,0.6837478806708174,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.6926484368344833,0.09940503373203002,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6184414524683803,0.0862281932147411,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7173999207292905,0.045598822291739616,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cerebral edema,43,0.8895135871880058,0.4492004318047562,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6785173160173159,0.05741632946539266,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8943060776942355,0.4200872236834664,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8399538897716299,0.3232219038017652,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.6270562770562771,0.03631009188740832,queryseq,1,availability,T2ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8431174089068826,0.29484919434773493,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.8623515439429928,0.15079817931163467,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Gliosis,284,0.7251632633169258,0.5816631268293206,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.9347652218782249,0.6957713707776242,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.7078683590311498,0.10189431006044587,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.6125390996872025,0.0927457032063527,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7148519336390917,0.04524002415130123,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cerebral edema,43,0.8941136382996847,0.5023595727891713,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Mastoiditis,22,0.6616883116883117,0.058801991334236636,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.895950814536341,0.4161084189907452,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.855282425148768,0.33304381816806555,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6659632034632034,0.04453183750199085,queryseq,1,availability,T2ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8347902097902098,0.25238714127900647,queryseq,1,availability,T1ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8678741092636579,0.15776762815417644,queryseq,1,availability,T1ax+SWIax,2,-1
+Gliosis,284,0.7089770456649933,0.5735245915674773,queryseq,1,availability,T1ax+SWIax,2,-1
+Cerebral atrophy,102,0.9025283797729619,0.5937916872544354,queryseq,1,availability,T1ax+SWIax,2,-1
+Arachnoid cyst,43,0.6890706193031775,0.08579616179049133,queryseq,1,availability,T1ax+SWIax,2,-1
+Empty sella syndrome,45,0.5840881272949816,0.07794143793685139,queryseq,1,availability,T1ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7472396806522846,0.06284453015103383,queryseq,1,availability,T1ax+SWIax,2,-1
+Cerebral edema,43,0.8950790811255928,0.4794609137718295,queryseq,1,availability,T1ax+SWIax,2,-1
+Mastoiditis,22,0.6142316017316017,0.054151323021384284,queryseq,1,availability,T1ax+SWIax,2,-1
+Ventriculomegaly,64,0.876233552631579,0.34684822601453935,queryseq,1,availability,T1ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8242514876779762,0.26736971971548107,queryseq,1,availability,T1ax+SWIax,2,-1
+Mega cisterna magna,22,0.6290584415584416,0.04566013427843433,queryseq,1,availability,T1ax+SWIax,2,-1
+Cerebral infarction,26,0.8416912035333088,0.28491892778946787,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8686460807600951,0.18869961446883182,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Gliosis,284,0.7152029826014912,0.5802505824202578,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9271026831785345,0.6906119961748479,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.6799840985887496,0.08257484086173353,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6107439140486877,0.07514633278720484,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7226657607157012,0.05713606443899663,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cerebral edema,43,0.9146718914160774,0.5323603215318466,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6968614718614718,0.05573175208829924,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8821859335839599,0.37408803705798116,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8275851325669065,0.3256025946230681,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.5988095238095238,0.03501661697863587,queryseq,1,availability,T1ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8350662495399337,0.3231648717226614,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.8644299287410926,0.16218383885599338,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Gliosis,284,0.7125225400847994,0.5862985684987717,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.9314886480908153,0.6963204762706104,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.7064201947922879,0.09441143056454371,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.596328029375765,0.07685069624747731,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7169469452465885,0.05676096207961851,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cerebral edema,43,0.9090212113467928,0.5726145251042432,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Mastoiditis,22,0.6718073593073594,0.06457763996713729,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.8939340538847118,0.41553030235144905,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.8537246471632862,0.31363523766076473,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6617424242424242,0.04510226860289307,queryseq,1,availability,T1ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8522727272727272,0.24894415818527302,queryseq,1,availability,T1ax+T2ax,2,-1
+Cerebral hemorrhage,20,0.851187648456057,0.16175069446701837,queryseq,1,availability,T1ax+T2ax,2,-1
+Gliosis,284,0.728361518592524,0.5825139577049859,queryseq,1,availability,T1ax+T2ax,2,-1
+Cerebral atrophy,102,0.9256965944272446,0.6548615831856949,queryseq,1,availability,T1ax+T2ax,2,-1
+Arachnoid cyst,43,0.6951188346537185,0.0961158439217919,queryseq,1,availability,T1ax+T2ax,2,-1
+Empty sella syndrome,45,0.597280021759826,0.10969169134569173,queryseq,1,availability,T1ax+T2ax,2,-1
+Cyst of pineal gland,21,0.7226657607157012,0.05028035240314374,queryseq,1,availability,T1ax+T2ax,2,-1
+Cerebral edema,43,0.8835505579691627,0.4506307015744512,queryseq,1,availability,T1ax+T2ax,2,-1
+Mastoiditis,22,0.6623376623376623,0.05971892371043557,queryseq,1,availability,T1ax+T2ax,2,-1
+Ventriculomegaly,64,0.8906641604010025,0.3909721562933505,queryseq,1,availability,T1ax+T2ax,2,-1
+Cerebellar degeneration,39,0.8376795339128267,0.3436667904278661,queryseq,1,availability,T1ax+T2ax,2,-1
+Mega cisterna magna,22,0.6399350649350649,0.04187570035423708,queryseq,1,availability,T1ax+T2ax,2,-1
+Cerebral infarction,26,0.8329039381670961,0.3204241531773726,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8742874109263659,0.15251398030494828,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7178590574589405,0.5981879075521236,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.937577399380805,0.725130886747382,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6993781412386063,0.09307410476073734,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.5981504147966816,0.0723567626771249,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7316686484344035,0.056257072294638805,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.908652071442769,0.5091208809830755,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6373376623376623,0.05310085667298879,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8921130952380953,0.420159262429289,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8580241144032152,0.319435275355097,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.641017316017316,0.043362974858939855,queryseq,1,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.84688995215311,0.24689945465182633,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8732185273159144,0.1546049689750832,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7282396802963107,0.5828490546412587,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9300696594427245,0.6758046943271959,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6964818127608826,0.090097133247645,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6017135862913097,0.07581266893967459,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7385765245456088,0.05257617568136569,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.8975210835675952,0.4480636836483573,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6471320346320346,0.059123147693376,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8929942042606517,0.42705164593394407,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8410443343614669,0.3325046731050944,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.629978354978355,0.04007100229719068,queryseq,1,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8422432830327568,0.29709044655424754,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8663301662707839,0.15046191913477255,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.72584555777572,0.5921749383798443,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9354489164086687,0.7052671546814961,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.7032683079194707,0.09322695671689551,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.6042431660546715,0.08657561294504625,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7343298793952777,0.051832309375509034,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.8970951529091065,0.47004287972045233,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.6384199134199134,0.059825429177149766,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.8965578007518796,0.41801048061676244,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.8552824251487677,0.33761773902998815,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.6585497835497837,0.046899168693952074,queryseq,1,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8438075082811924,0.2906914390365491,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8695961995249406,0.16011075733130994,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7270517569082313,0.5822034980402914,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9389963880288958,0.7148486100299251,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.7078399636539172,0.10323266149087999,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6143342853257173,0.08168655999971741,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7219296755563105,0.04701100011892838,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.9018087855297158,0.5012790669071834,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6755411255411254,0.057972773067011804,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.8964403195488722,0.41901737539243805,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8531950026482227,0.3375975213372277,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6485930735930736,0.03988145852308316,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8364924549135075,0.28188532281033246,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8788598574821853,0.16551438702189472,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7161898728008187,0.5885848802879018,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9260835913312693,0.6832964894776234,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6876508504415481,0.08669714733728265,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.5903984768121856,0.07134636070883968,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7449748032387747,0.06153127482743935,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9091347928557231,0.4987165846377839,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6396103896103896,0.05153634242769355,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8817747493734337,0.38369957559587337,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8340343334268,0.32517355531606706,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.6148268398268398,0.04122017472371564,queryseq,1,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8367684946632314,0.32880316700216455,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.869061757719715,0.154990766362433,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.7167807885374531,0.5970776094146413,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9316692466460268,0.6983105854858337,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.7005991424596075,0.09077378569615831,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.5914592683258534,0.07721559899308836,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7416907309891853,0.06540477642649796,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.9056705568333475,0.5300467509732126,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.634469696969697,0.058773746948389355,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.8941298558897244,0.41815962314549926,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.8546281583948656,0.31229412263039347,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.6520021645021645,0.048644718066670666,queryseq,1,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8383327199116672,0.3161818791449181,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8715558194774347,0.17556448003392597,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7173534285296554,0.5900801324440897,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9377063983488132,0.7202054725596854,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.7016781667944458,0.09434446604202218,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6033455732354142,0.07323641987877204,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7241945529698205,0.05499506051710119,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.912371865860238,0.5667519011287849,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6801406926406927,0.060243489838087166,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.8933466478696742,0.4120936457034864,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8547216250739944,0.3226736098882032,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6368506493506493,0.038947476404773855,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8498343761501657,0.25199012407845944,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral hemorrhage,20,0.864667458432304,0.1638657668907843,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Gliosis,284,0.7276853160485404,0.5875155200402158,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral atrophy,102,0.9265737874097008,0.6539571289067857,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Arachnoid cyst,43,0.6982139307720704,0.0899972568956012,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Empty sella syndrome,45,0.5886576907384741,0.08151460249524253,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cyst of pineal gland,21,0.747183058716947,0.05736487299013848,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral edema,43,0.8908765652951699,0.4592413768554107,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Mastoiditis,22,0.6354437229437229,0.059025671351985956,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Ventriculomegaly,64,0.8900180137844612,0.3908969310017879,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cerebellar degeneration,39,0.8384895784652772,0.3340222374773066,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Mega cisterna magna,22,0.6391774891774892,0.04663298878803591,queryseq,1,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral infarction,26,0.8518126610231873,0.2683794735239628,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.867458432304038,0.17018950685180437,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Gliosis,284,0.729774842828598,0.5831214153800708,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9332817337461301,0.6894871505176106,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.6934151120197632,0.09694836747802359,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6137358901128791,0.09053079413735084,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7295170148915691,0.05180381683516207,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral edema,43,0.8993667830877132,0.4813293716927357,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mastoiditis,22,0.6807900432900433,0.05899828997390418,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.8952263471177946,0.4174536725994392,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8388634451817928,0.3422788698154137,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6242424242424243,0.036828760765274145,queryseq,1,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8451417004048583,0.3030526977139739,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral hemorrhage,20,0.8634798099762471,0.16014712195454023,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Gliosis,284,0.7259856718163654,0.5871001171001143,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral atrophy,102,0.9361455108359134,0.696272545083815,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Arachnoid cyst,43,0.7049152397989608,0.09692311883239008,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Empty sella syndrome,45,0.604515163878689,0.09545282051578435,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cyst of pineal gland,21,0.7266859181246814,0.05155834275773859,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral edema,43,0.9005025981770167,0.5305518274909314,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Mastoiditis,22,0.6672077922077921,0.05995620244643688,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Ventriculomegaly,64,0.896734022556391,0.4164148101917338,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebellar degeneration,39,0.8529457581705455,0.3391580801220458,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Mega cisterna magna,22,0.6556277056277056,0.043360982997809445,queryseq,1,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral infarction,26,0.8427953625322047,0.28835659211488657,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8719121140142518,0.15745350063983615,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7273441688191432,0.5925356110200786,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9388415892672859,0.7170781218358363,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.7039497969730528,0.09478927254473851,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6043247654018767,0.07636169319321365,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7360285374554102,0.05355291830874687,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9034273220319732,0.48668219993577033,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6492965367965368,0.059143241122864884,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.896734022556391,0.42561720606299225,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8541608249992211,0.33933351993365235,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6454004329004329,0.041756622995828746,queryseq,1,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8373665807876335,0.31575166364281615,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8737529691211401,0.1584572060417831,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7198876650908913,0.5993729311319341,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.936906604747162,0.7191947067686537,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.6971065110599994,0.09048611654034716,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.5943152454780362,0.0721950704032138,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7410112677651322,0.0622704725439153,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.911264446148167,0.5317683898753772,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6449675324675324,0.05607292986264589,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8935032894736842,0.4155933276244909,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.85509549179051,0.32193075580394886,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6380411255411256,0.0434396080194653,queryseq,1,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8503864556496135,0.2665306622000705,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.873040380047506,0.16411991741841983,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7287239875237584,0.5903902957381258,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9336300309597523,0.6835105506362281,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.6971916971916972,0.09058289020205998,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.5961648306813546,0.07517125737997818,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7479191438763376,0.057613280320908726,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9011556918533662,0.48039632806387933,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6496753246753247,0.059092247457544614,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8936795112781954,0.4197486927077734,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8402654453687262,0.3420415429232714,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6298160173160173,0.04080544605716085,queryseq,1,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8443595877806405,0.3029822936495014,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral hemorrhage,20,0.8681710213776722,0.15634978235050376,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Gliosis,284,0.7259917637311759,0.5932681152384058,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral atrophy,102,0.9361197110423116,0.698141481418466,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Arachnoid cyst,43,0.703665843200727,0.09360153056963064,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Empty sella syndrome,45,0.5968176254589963,0.08118237827637287,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cyst of pineal gland,21,0.7437291206613441,0.0572925990176642,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral edema,43,0.900559388931482,0.491275307107889,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mastoiditis,22,0.6433982683982684,0.0618483804231698,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Ventriculomegaly,64,0.8970081453634086,0.4208913279952474,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebellar degeneration,39,0.8535688693647382,0.3485707907166443,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mega cisterna magna,22,0.651461038961039,0.04581337724217308,queryseq,1,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral infarction,26,0.8456477732793521,0.29794660115138477,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral hemorrhage,20,0.869833729216152,0.16715806425222263,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Gliosis,284,0.7271735952044447,0.5875354832092994,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral atrophy,102,0.939202786377709,0.7066975617135837,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Arachnoid cyst,43,0.7037510293324247,0.09773238121516141,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Empty sella syndrome,45,0.6088671290629675,0.07926440114867661,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cyst of pineal gland,21,0.7299699903742709,0.05274016808975911,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral edema,43,0.9057841383422778,0.524372618361223,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mastoiditis,22,0.6777597402597402,0.059205564387819105,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Ventriculomegaly,64,0.8972235275689223,0.4241695319744578,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebellar degeneration,39,0.8524472692151914,0.34061662262519954,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mega cisterna magna,22,0.6432900432900434,0.0399058600460812,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral infarction,26,0.8453257269046742,0.3007430893013797,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral hemorrhage,20,0.8729216152019001,0.16252877391671317,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Gliosis,284,0.7276609483892977,0.5956623565639831,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral atrophy,102,0.9390350877192981,0.7094903724119251,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Arachnoid cyst,43,0.7020473066984695,0.0937701002643509,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Empty sella syndrome,45,0.6002719978240174,0.07543607837861943,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cyst of pineal gland,21,0.7441254742087084,0.057519003755057495,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral edema,43,0.9055569753244171,0.4955314913354404,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mastoiditis,22,0.6526515151515152,0.060122016981110415,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Ventriculomegaly,64,0.8972626879699248,0.42804974046852157,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebellar degeneration,39,0.8529457581705455,0.3462505502599312,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mega cisterna magna,22,0.6416125541125541,0.04163414426732803,queryseq,1,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral infarction,26,0.8366764814133235,0.2120854398740182,queryseq,1,budget,allinputs,1,1
+Cerebral hemorrhage,20,0.861163895486936,0.1726312151604607,queryseq,1,budget,allinputs,1,1
+Gliosis,284,0.7205334080608218,0.5742712999176374,queryseq,1,budget,allinputs,1,1
+Cerebral atrophy,102,0.9308178534571723,0.6921535890165315,queryseq,1,budget,allinputs,1,1
+Arachnoid cyst,43,0.7079535451628475,0.10658229300226803,queryseq,1,budget,allinputs,1,1
+Empty sella syndrome,45,0.5796273629810962,0.06688938955117935,queryseq,1,budget,allinputs,1,1
+Cyst of pineal gland,21,0.7210237245909065,0.05164774140806278,queryseq,1,budget,allinputs,1,1
+Cerebral edema,43,0.8818468353352074,0.4687964236019418,queryseq,1,budget,allinputs,1,1
+Mastoiditis,22,0.6255411255411256,0.045681781234634816,queryseq,1,budget,allinputs,1,1
+Ventriculomegaly,64,0.879640507518797,0.3821742315556733,queryseq,1,budget,allinputs,1,1
+Cerebellar degeneration,39,0.8551889584696389,0.34793467564293173,queryseq,1,budget,allinputs,1,1
+Mega cisterna magna,22,0.6477272727272727,0.0479435016889575,queryseq,1,budget,allinputs,1,1
+Cerebral infarction,26,0.8440375414059624,0.3114645185377511,queryseq,1,budget,allinputs,2,2
+Cerebral hemorrhage,20,0.8717933491686461,0.15595023850210146,queryseq,1,budget,allinputs,2,2
+Gliosis,284,0.7266192309566744,0.5896165021546386,queryseq,1,budget,allinputs,2,2
+Cerebral atrophy,102,0.9355263157894737,0.6982904826396382,queryseq,1,budget,allinputs,2,2
+Arachnoid cyst,43,0.6918817616492036,0.0905600022817641,queryseq,1,budget,allinputs,2,2
+Empty sella syndrome,45,0.6128654970760234,0.08174964338295068,queryseq,1,budget,allinputs,2,2
+Cyst of pineal gland,21,0.7484287412943774,0.056189352633043976,queryseq,1,budget,allinputs,2,2
+Cerebral edema,43,0.9045915324985092,0.49643393449567136,queryseq,1,budget,allinputs,2,2
+Mastoiditis,22,0.6414502164502165,0.05883751804175477,queryseq,1,budget,allinputs,2,2
+Ventriculomegaly,64,0.8956179511278197,0.42064154296119627,queryseq,1,budget,allinputs,2,2
+Cerebellar degeneration,39,0.8536934916035767,0.33176495725397565,queryseq,1,budget,allinputs,2,2
+Mega cisterna magna,22,0.6378246753246753,0.041310029752077954,queryseq,1,budget,allinputs,2,2
+Cerebral infarction,26,0.8463378726536621,0.29407043114114484,queryseq,1,budget,allinputs,3,3
+Cerebral hemorrhage,20,0.8711995249406175,0.1542392751035905,queryseq,1,budget,allinputs,3,3
+Gliosis,284,0.7234879867439934,0.593632885900497,queryseq,1,budget,allinputs,3,3
+Cerebral atrophy,102,0.9331785345717234,0.6951352476676194,queryseq,1,budget,allinputs,3,3
+Arachnoid cyst,43,0.7068745208280093,0.09474253146357577,queryseq,1,budget,allinputs,3,3
+Empty sella syndrome,45,0.6140078879368964,0.08034029299039173,queryseq,1,budget,allinputs,3,3
+Cyst of pineal gland,21,0.7355755619727082,0.05384860216066691,queryseq,1,budget,allinputs,3,3
+Cerebral edema,43,0.8975778743220604,0.4788665793795187,queryseq,1,budget,allinputs,3,3
+Mastoiditis,22,0.6466450216450217,0.06466405508776661,queryseq,1,budget,allinputs,3,3
+Ventriculomegaly,64,0.8927788220551378,0.41998367509545725,queryseq,1,budget,allinputs,3,3
+Cerebellar degeneration,39,0.8492694021248092,0.33323219398961057,queryseq,1,budget,allinputs,3,3
+Mega cisterna magna,22,0.6508116883116883,0.0422337775948726,queryseq,1,budget,allinputs,3,3
+Cerebral infarction,26,0.8445896209054105,0.3235634923997208,queryseq,1,budget,allinputs,4,4
+Cerebral hemorrhage,20,0.8709026128266033,0.1619953947942035,queryseq,1,budget,allinputs,4,4
+Gliosis,284,0.7247855645986647,0.6003651403505113,queryseq,1,budget,allinputs,4,4
+Cerebral atrophy,102,0.9370227038183694,0.6993778781445816,queryseq,1,budget,allinputs,4,4
+Arachnoid cyst,43,0.6999176534060255,0.09125723370997975,queryseq,1,budget,allinputs,4,4
+Empty sella syndrome,45,0.6103087175302597,0.08554989554717835,queryseq,1,budget,allinputs,4,4
+Cyst of pineal gland,21,0.7366513787441255,0.05710115505868001,queryseq,1,budget,allinputs,4,4
+Cerebral edema,43,0.9042791833489506,0.5067234771079605,queryseq,1,budget,allinputs,4,4
+Mastoiditis,22,0.6577922077922078,0.05970941783797331,queryseq,1,budget,allinputs,4,4
+Ventriculomegaly,64,0.8948151629072683,0.42531245738021817,queryseq,1,budget,allinputs,4,4
+Cerebellar degeneration,39,0.8527899803719974,0.3512600656879644,queryseq,1,budget,allinputs,4,4
+Mega cisterna magna,22,0.6541125541125541,0.043404522020563364,queryseq,1,budget,allinputs,4,4
+Cerebral infarction,26,0.8424733161575266,0.29633486925288505,queryseq,1,budget,allinputs,5,5
+Cerebral hemorrhage,20,0.8719121140142518,0.16354022899150486,queryseq,1,budget,allinputs,5,5
+Gliosis,284,0.7269725620156929,0.5933577002471372,queryseq,1,budget,allinputs,5,5
+Cerebral atrophy,102,0.9345975232198143,0.686715195077808,queryseq,1,budget,allinputs,5,5
+Arachnoid cyst,43,0.6955731606894398,0.09116049185285598,queryseq,1,budget,allinputs,5,5
+Empty sella syndrome,45,0.6112607099143207,0.08261218469685869,queryseq,1,budget,allinputs,5,5
+Cyst of pineal gland,21,0.7414076213124964,0.056351604674545655,queryseq,1,budget,allinputs,5,5
+Cerebral edema,43,0.9072323025811397,0.5064623825704317,queryseq,1,budget,allinputs,5,5
+Mastoiditis,22,0.6657467532467533,0.06110732653219616,queryseq,1,budget,allinputs,5,5
+Ventriculomegaly,64,0.8915061090225563,0.41128111684399127,queryseq,1,budget,allinputs,5,5
+Cerebellar degeneration,39,0.8441287347727202,0.3183711530237548,queryseq,1,budget,allinputs,5,5
+Mega cisterna magna,22,0.6232142857142857,0.037939534730632093,queryseq,1,budget,allinputs,5,5
+Cerebral infarction,26,0.8165255796834744,0.14879928690681024,queryseq,2,availability,SWIax,1,-1
+Cerebral hemorrhage,20,0.8782066508313539,0.1464816062707685,queryseq,2,availability,SWIax,1,-1
+Gliosis,284,0.6996015887713827,0.5446440893424023,queryseq,2,availability,SWIax,1,-1
+Cerebral atrophy,102,0.8294246646026832,0.4226750777358959,queryseq,2,availability,SWIax,1,-1
+Arachnoid cyst,43,0.6924780645710878,0.08920607136407638,queryseq,2,availability,SWIax,1,-1
+Empty sella syndrome,45,0.62140622875017,0.08856219808408504,queryseq,2,availability,SWIax,1,-1
+Cyst of pineal gland,21,0.6954306098182436,0.05127789848495618,queryseq,2,availability,SWIax,1,-1
+Cerebral edema,43,0.9009853195899709,0.4151127935632135,queryseq,2,availability,SWIax,1,-1
+Mastoiditis,22,0.6328463203463204,0.06049799199536501,queryseq,2,availability,SWIax,1,-1
+Ventriculomegaly,64,0.8409500313283208,0.3351796416755949,queryseq,2,availability,SWIax,1,-1
+Cerebellar degeneration,39,0.7766769480013709,0.15032712165637138,queryseq,2,availability,SWIax,1,-1
+Mega cisterna magna,22,0.6420995670995671,0.04271187217802541,queryseq,2,availability,SWIax,1,-1
+Cerebral infarction,26,0.8247607655502392,0.24976009837316107,queryseq,2,availability,FLAIRsag,1,-1
+Cerebral hemorrhage,20,0.8696555819477435,0.23718476236569105,queryseq,2,availability,FLAIRsag,1,-1
+Gliosis,284,0.7201557093425606,0.5521168785627741,queryseq,2,availability,FLAIRsag,1,-1
+Cerebral atrophy,102,0.918421052631579,0.686753930390368,queryseq,2,availability,FLAIRsag,1,-1
+Arachnoid cyst,43,0.6776840730329102,0.09885997511514748,queryseq,2,availability,FLAIRsag,1,-1
+Empty sella syndrome,45,0.6196654426764586,0.07819811020838192,queryseq,2,availability,FLAIRsag,1,-1
+Cyst of pineal gland,21,0.7501840212898476,0.05863297327848937,queryseq,2,availability,FLAIRsag,1,-1
+Cerebral edema,43,0.896640826873385,0.4185694726940281,queryseq,2,availability,FLAIRsag,1,-1
+Mastoiditis,22,0.6641233766233767,0.05544428890144029,queryseq,2,availability,FLAIRsag,1,-1
+Ventriculomegaly,64,0.8772125626566416,0.4150260247187295,queryseq,2,availability,FLAIRsag,1,-1
+Cerebellar degeneration,39,0.8200766426768857,0.28161477786090305,queryseq,2,availability,FLAIRsag,1,-1
+Mega cisterna magna,22,0.5136363636363637,0.03850798361621427,queryseq,2,availability,FLAIRsag,1,-1
+Cerebral infarction,26,0.8339620905410379,0.3323563542807765,queryseq,2,availability,FLAIRax,1,-1
+Cerebral hemorrhage,20,0.8737529691211401,0.1647100441526957,queryseq,2,availability,FLAIRax,1,-1
+Gliosis,284,0.708514060139383,0.5775552355444542,queryseq,2,availability,FLAIRax,1,-1
+Cerebral atrophy,102,0.930250257997936,0.711913167841973,queryseq,2,availability,FLAIRax,1,-1
+Arachnoid cyst,43,0.7115597580713859,0.10555081006061681,queryseq,2,availability,FLAIRax,1,-1
+Empty sella syndrome,45,0.6062015503875969,0.07424993653577985,queryseq,2,availability,FLAIRax,1,-1
+Cyst of pineal gland,21,0.7258365890946152,0.057895446046361994,queryseq,2,availability,FLAIRax,1,-1
+Cerebral edema,43,0.9137348439674021,0.5253819414466557,queryseq,2,availability,FLAIRax,1,-1
+Mastoiditis,22,0.6697510822510822,0.06093214982514357,queryseq,2,availability,FLAIRax,1,-1
+Ventriculomegaly,64,0.8952459273182959,0.42462400526693195,queryseq,2,availability,FLAIRax,1,-1
+Cerebellar degeneration,39,0.8597999813066642,0.28353627608632054,queryseq,2,availability,FLAIRax,1,-1
+Mega cisterna magna,22,0.6963203463203462,0.049143417335830275,queryseq,2,availability,FLAIRax,1,-1
+Cerebral infarction,26,0.8489602502760398,0.25800241682349984,queryseq,2,availability,T2ax,1,-1
+Cerebral hemorrhage,20,0.8447149643705464,0.15341877167716003,queryseq,2,availability,T2ax,1,-1
+Gliosis,284,0.7192906574394463,0.5474312057777697,queryseq,2,availability,T2ax,1,-1
+Cerebral atrophy,102,0.9031475748194014,0.6155639435837378,queryseq,2,availability,T2ax,1,-1
+Arachnoid cyst,43,0.7048584490444955,0.09477552345645121,queryseq,2,availability,T2ax,1,-1
+Empty sella syndrome,45,0.6064735482116144,0.0868978004166564,queryseq,2,availability,T2ax,1,-1
+Cyst of pineal gland,21,0.7062453994677538,0.04435104748629147,queryseq,2,availability,T2ax,1,-1
+Cerebral edema,43,0.8685294034131243,0.388544582482448,queryseq,2,availability,T2ax,1,-1
+Mastoiditis,22,0.6612554112554112,0.06298552135922245,queryseq,2,availability,T2ax,1,-1
+Ventriculomegaly,64,0.8878054511278196,0.389311858259462,queryseq,2,availability,T2ax,1,-1
+Cerebellar degeneration,39,0.8345951335015734,0.29980134514281326,queryseq,2,availability,T2ax,1,-1
+Mega cisterna magna,22,0.6090909090909091,0.03350557798026158,queryseq,2,availability,T2ax,1,-1
+Cerebral infarction,26,0.8451877070298124,0.3002279276481354,queryseq,2,availability,T1ax,1,-1
+Cerebral hemorrhage,20,0.8528503562945369,0.1847684167322564,queryseq,2,availability,T1ax,1,-1
+Gliosis,284,0.7088917588576442,0.5660329329528682,queryseq,2,availability,T1ax,1,-1
+Cerebral atrophy,102,0.9071594427244583,0.648107311752534,queryseq,2,availability,T1ax,1,-1
+Arachnoid cyst,43,0.6822557287673566,0.08521603836204354,queryseq,2,availability,T1ax,1,-1
+Empty sella syndrome,45,0.5939616483068135,0.08282352663278184,queryseq,2,availability,T1ax,1,-1
+Cyst of pineal gland,21,0.7323481116584565,0.08254243007327873,queryseq,2,availability,T1ax,1,-1
+Cerebral edema,43,0.8922111480251015,0.4789813619811919,queryseq,2,availability,T1ax,1,-1
+Mastoiditis,22,0.6732683982683982,0.059246667977531954,queryseq,2,availability,T1ax,1,-1
+Ventriculomegaly,64,0.8880599937343359,0.38097995753143776,queryseq,2,availability,T1ax,1,-1
+Cerebellar degeneration,39,0.8125681527868648,0.3080643544406349,queryseq,2,availability,T1ax,1,-1
+Mega cisterna magna,22,0.6067640692640693,0.0369533694123064,queryseq,2,availability,T1ax,1,-1
+Cerebral infarction,26,0.8310636731689363,0.2844035438985256,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cerebral hemorrhage,20,0.8907957244655581,0.1672950277018169,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Gliosis,284,0.7248282080023393,0.5772169213235845,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cerebral atrophy,102,0.9240841073271414,0.6835721940445842,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Arachnoid cyst,43,0.6940966010733453,0.09302008493503841,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Empty sella syndrome,45,0.6298653610771113,0.07849089030271224,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cyst of pineal gland,21,0.7245909065171847,0.054771068643197654,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cerebral edema,43,0.9156089388647528,0.45636149336611365,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Mastoiditis,22,0.6569264069264069,0.05611073133294838,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Ventriculomegaly,64,0.8832628446115288,0.42684074438199304,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cerebellar degeneration,39,0.8350313113375083,0.31262816935717375,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Mega cisterna magna,22,0.5987554112554112,0.03548320313283785,queryseq,2,availability,FLAIRsag+SWIax,2,-1
+Cerebral infarction,26,0.8371825542878175,0.3294045022220649,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cerebral hemorrhage,20,0.87541567695962,0.1505543706626708,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Gliosis,284,0.7169574540669623,0.5871709469396287,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cerebral atrophy,102,0.9290376676986584,0.7038264841433676,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Arachnoid cyst,43,0.7001164210466536,0.09226365798729581,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Empty sella syndrome,45,0.6244254045967632,0.08405461609140742,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cyst of pineal gland,21,0.7147386897684163,0.05594217515370975,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cerebral edema,43,0.917170684612545,0.5028738100953297,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Mastoiditis,22,0.6512987012987014,0.07002962231109787,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Ventriculomegaly,64,0.8954417293233082,0.4265806920840751,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cerebellar degeneration,39,0.8585226033585693,0.2814453224915022,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Mega cisterna magna,22,0.6793831168831169,0.0463005678243461,queryseq,2,availability,FLAIRax+SWIax,2,-1
+Cerebral infarction,26,0.839574898785425,0.3354101841851589,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8796318289786224,0.1951974890875948,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Gliosis,284,0.725909522881232,0.5824379142401184,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9413054695562436,0.7447488600276376,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.7104807337365477,0.11884157911637233,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6242078063375494,0.07709431651589493,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7418039748598607,0.060402898296788285,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral edema,43,0.9187040349831046,0.541258945789727,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Mastoiditis,22,0.6744047619047618,0.0583238114861625,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.895950814536341,0.4361368030754431,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8593326479110197,0.2997583208397155,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.6248917748917748,0.040185279231151935,queryseq,2,availability,FLAIRax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8517206477732794,0.2462002234582959,queryseq,2,availability,T2ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8725059382422803,0.15435723690784545,queryseq,2,availability,T2ax+SWIax,2,-1
+Gliosis,284,0.7240606267361958,0.5595018268053645,queryseq,2,availability,T2ax+SWIax,2,-1
+Cerebral atrophy,102,0.906424148606811,0.6048915320232972,queryseq,2,availability,T2ax+SWIax,2,-1
+Arachnoid cyst,43,0.7039781923502852,0.09196072865692716,queryseq,2,availability,T2ax+SWIax,2,-1
+Empty sella syndrome,45,0.6224670202638379,0.08328586538829372,queryseq,2,availability,T2ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7337070381065625,0.050833113805972295,queryseq,2,availability,T2ax+SWIax,2,-1
+Cerebral edema,43,0.8943975920720106,0.43688653966272023,queryseq,2,availability,T2ax+SWIax,2,-1
+Mastoiditis,22,0.6425324675324676,0.06886213930254625,queryseq,2,availability,T2ax+SWIax,2,-1
+Ventriculomegaly,64,0.8879425125313284,0.39615284281809066,queryseq,2,availability,T2ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8369941115992149,0.29664644767060494,queryseq,2,availability,T2ax+SWIax,2,-1
+Mega cisterna magna,22,0.6432359307359308,0.039938451134627864,queryseq,2,availability,T2ax+SWIax,2,-1
+Cerebral infarction,26,0.8437615016562385,0.3229218530015547,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8785035629453681,0.20314858675690667,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Gliosis,284,0.7260953262829571,0.5563307223144139,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9175051599587204,0.6739494246831806,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.7002583979328165,0.09701171856602048,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6285325717394261,0.08297027626015585,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7205707491082045,0.04738815679631637,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cerebral edema,43,0.8976630604537581,0.4495308513943902,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6808441558441558,0.059800814783457085,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8967536027568923,0.4458407051391821,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8347509113001216,0.3104077159067737,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.5822510822510822,0.03112942437567755,queryseq,2,availability,T2ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8449576739050424,0.34229791487049327,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.87458432304038,0.17020954540967076,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Gliosis,284,0.721648228471173,0.5704977559144553,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.9293859649122808,0.6988178373149584,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.7099696169463611,0.10138672314280932,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.6096559227526179,0.07935249768348701,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7298567465035956,0.054328124066670376,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cerebral edema,43,0.9088508390833973,0.5321618760064599,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Mastoiditis,22,0.6760822510822511,0.06979602186193312,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.900826284461153,0.431942213916482,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.8566844253357012,0.2904936044067993,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6503787878787879,0.038619109379133154,queryseq,2,availability,T2ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8490062569009937,0.26167486624185926,queryseq,2,availability,T1ax+SWIax,2,-1
+Cerebral hemorrhage,20,0.8772565320665082,0.15918545092624822,queryseq,2,availability,T1ax+SWIax,2,-1
+Gliosis,284,0.7142282762317852,0.5748196162261714,queryseq,2,availability,T1ax+SWIax,2,-1
+Cerebral atrophy,102,0.905766253869969,0.6217987469470992,queryseq,2,availability,T1ax+SWIax,2,-1
+Arachnoid cyst,43,0.6937842519237868,0.08961515395553167,queryseq,2,availability,T1ax+SWIax,2,-1
+Empty sella syndrome,45,0.6174078607371141,0.08397998862039101,queryseq,2,availability,T1ax+SWIax,2,-1
+Cyst of pineal gland,21,0.7391993658343242,0.07123291172048084,queryseq,2,availability,T1ax+SWIax,2,-1
+Cerebral edema,43,0.902887809864554,0.48414802421710207,queryseq,2,availability,T1ax+SWIax,2,-1
+Mastoiditis,22,0.6426948051948052,0.06140537481130602,queryseq,2,availability,T1ax+SWIax,2,-1
+Ventriculomegaly,64,0.8873746867167921,0.3881304094513965,queryseq,2,availability,T1ax+SWIax,2,-1
+Cerebellar degeneration,39,0.8218525095803346,0.2859068279697004,queryseq,2,availability,T1ax+SWIax,2,-1
+Mega cisterna magna,22,0.6312770562770563,0.039952122621654394,queryseq,2,availability,T1ax+SWIax,2,-1
+Cerebral infarction,26,0.8415071770334929,0.3329661905254298,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cerebral hemorrhage,20,0.8753562945368171,0.22670732340094799,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Gliosis,284,0.7313892002534237,0.5807392258786853,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cerebral atrophy,102,0.9319143446852425,0.7161768094292077,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Arachnoid cyst,43,0.6937558565465541,0.09892691732774603,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Empty sella syndrome,45,0.6335645314837481,0.07956335260776856,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cyst of pineal gland,21,0.7415774871185097,0.06220910362306132,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cerebral edema,43,0.9103557940767242,0.49063756427249516,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Mastoiditis,22,0.6832251082251082,0.055940251750316625,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Ventriculomegaly,64,0.8949326441102757,0.43923121577804153,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cerebellar degeneration,39,0.8261519768202636,0.30840436115739095,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Mega cisterna magna,22,0.5627705627705627,0.03634228715915783,queryseq,2,availability,T1ax+FLAIRsag,2,-1
+Cerebral infarction,26,0.8420592565329408,0.3446971991166394,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cerebral hemorrhage,20,0.8750593824228028,0.17264032859101805,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Gliosis,284,0.7139541400653052,0.5858645693158051,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cerebral atrophy,102,0.932920536635707,0.7150848486375527,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Arachnoid cyst,43,0.7013658176448874,0.09583804999023453,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Empty sella syndrome,45,0.6011695906432749,0.07439042668176861,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cyst of pineal gland,21,0.7321216239171054,0.07849356237731646,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cerebral edema,43,0.9166879631995911,0.5510156776432933,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Mastoiditis,22,0.6786255411255411,0.06626705017881082,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Ventriculomegaly,64,0.8994556704260652,0.4282771716800015,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cerebellar degeneration,39,0.8542231361186404,0.28358455433716107,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Mega cisterna magna,22,0.6555194805194805,0.040901232708322875,queryseq,2,availability,T1ax+FLAIRax,2,-1
+Cerebral infarction,26,0.8570574162679426,0.3140572084893248,queryseq,2,availability,T1ax+T2ax,2,-1
+Cerebral hemorrhage,20,0.8609263657957245,0.18747112245257647,queryseq,2,availability,T1ax+T2ax,2,-1
+Gliosis,284,0.7249378624689312,0.5678759403885466,queryseq,2,availability,T1ax+T2ax,2,-1
+Cerebral atrophy,102,0.915905572755418,0.6498036953672992,queryseq,2,availability,T1ax+T2ax,2,-1
+Arachnoid cyst,43,0.699548513502002,0.09349860553915716,queryseq,2,availability,T1ax+T2ax,2,-1
+Empty sella syndrome,45,0.6010607915136679,0.08614546030053469,queryseq,2,availability,T1ax+T2ax,2,-1
+Cyst of pineal gland,21,0.7241945529698205,0.057492341450859394,queryseq,2,availability,T1ax+T2ax,2,-1
+Cerebral edema,43,0.8911037283130305,0.46899474402771124,queryseq,2,availability,T1ax+T2ax,2,-1
+Mastoiditis,22,0.674512987012987,0.0651306745355282,queryseq,2,availability,T1ax+T2ax,2,-1
+Ventriculomegaly,64,0.8974780701754386,0.41261890505219706,queryseq,2,availability,T1ax+T2ax,2,-1
+Cerebellar degeneration,39,0.8349066890986696,0.3138557700684257,queryseq,2,availability,T1ax+T2ax,2,-1
+Mega cisterna magna,22,0.6121753246753247,0.034636788036027044,queryseq,2,availability,T1ax+T2ax,2,-1
+Cerebral infarction,26,0.840126978284873,0.32714776385816896,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8825415676959619,0.16143636786560314,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7270273892489887,0.5895635255111906,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9395639834881321,0.7376249759833564,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.7031547264105403,0.09680140238300415,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6283421732626139,0.07728812682460516,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.731328916822377,0.06098613768395267,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.919925036204106,0.503037767249775,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6580086580086579,0.06039771145336449,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8960095551378446,0.4429825027226211,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8597999813066641,0.30480744302198204,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.6462662337662337,0.0401485760522093,queryseq,2,availability,FLAIRax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8481321310268678,0.31820869109389693,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8860451306413302,0.16732449859213544,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7301586334616696,0.570786337348643,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9197368421052632,0.6759478293073222,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.7046028906494023,0.0953599424523872,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6283965728274173,0.07774689881942395,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7391993658343242,0.054221137484504286,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9091915836101883,0.45877445659388294,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6583333333333332,0.06340339236433006,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.895343828320802,0.4477797215588316,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8376795339128268,0.3267071618577887,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.6158549783549783,0.03613959776992791,queryseq,2,availability,T2ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8455557600294442,0.33509198730260803,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8768408551068884,0.15779662498413247,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.7251267118280618,0.5810945274776735,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9284313725490196,0.6997744955436374,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.7067041485646137,0.09401990875313,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.6233374133006936,0.081007714328266,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7394258535756753,0.055266190560637925,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.9107249339807479,0.4917506002870836,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.6564935064935065,0.07291875422640914,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.8997297932330827,0.4327225804437003,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.8570271364925072,0.2929642436993812,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.6606601731601732,0.04179453891617191,queryseq,2,availability,T2ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8456477732793523,0.3557456516574544,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8812351543942993,0.18398015849117025,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7281665773185827,0.5737244882210828,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9347265221878224,0.7183442623857981,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.7099128261918959,0.10545953530975337,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6229294165646675,0.07991656365196724,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7327444652058207,0.05302123431769914,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.9134224948178437,0.513733716729183,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6817640692640693,0.0615393519316369,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.9003367794486216,0.4469869342790743,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8555316696264449,0.2988084104731418,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6220779220779221,0.03511796598234905,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8461998527788002,0.337125038311763,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral hemorrhage,20,0.8890736342042755,0.17714689803580547,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Gliosis,284,0.7273989960524392,0.5879121495266584,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral atrophy,102,0.9305340557275542,0.7053670868224508,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Arachnoid cyst,43,0.6956015560666723,0.09233695843935567,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Empty sella syndrome,45,0.6273357813137495,0.07826377772310084,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cyst of pineal gland,21,0.7438989864673574,0.06534421316567071,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral edema,43,0.9161768464094046,0.4887905159935618,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mastoiditis,22,0.6568181818181817,0.057052798839404076,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Ventriculomegaly,64,0.8942473370927317,0.432922836594266,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebellar degeneration,39,0.8341901112253481,0.32873035017796537,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Mega cisterna magna,22,0.6044372294372294,0.03642542915948608,queryseq,2,availability,T1ax+FLAIRsag+SWIax,3,-1
+Cerebral infarction,26,0.8445436142804563,0.3466704113149931,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral hemorrhage,20,0.8768408551068884,0.1589204451214135,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Gliosis,284,0.7193393927579317,0.5915995133538625,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral atrophy,102,0.9308952528379774,0.7076397472980295,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Arachnoid cyst,43,0.7010534684953288,0.09261728012698889,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Empty sella syndrome,45,0.6207534339725281,0.08172492893793683,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cyst of pineal gland,21,0.7363116471320988,0.0691688711312527,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral edema,43,0.9163472186728001,0.5179436687295366,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Mastoiditis,22,0.6555735930735931,0.0669744667539462,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Ventriculomegaly,64,0.8984962406015038,0.4281891192851194,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebellar degeneration,39,0.8538804249618344,0.2844124394696765,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Mega cisterna magna,22,0.6579545454545455,0.041950498326641085,queryseq,2,availability,T1ax+FLAIRax+SWIax,3,-1
+Cerebral infarction,26,0.8453257269046743,0.3610084369236827,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8798099762470308,0.19203966918755483,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Gliosis,284,0.7268689994639115,0.5874486978139372,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9404927760577916,0.7382390436081644,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.704489309140472,0.10489057555390655,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.622766217870257,0.07815947233733375,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.7389162561576355,0.06622181654816878,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral edema,43,0.9200102223358038,0.5413193631402359,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mastoiditis,22,0.6806277056277056,0.05905947529285645,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.8994752506265663,0.43848345326711735,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8531326915288034,0.29633424043386036,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.6139069264069265,0.03694377857714935,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8577935222672065,0.29627593248011413,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral hemorrhage,20,0.873396674584323,0.16460706779687256,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Gliosis,284,0.7271918709488766,0.5738427601617279,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral atrophy,102,0.9160861713106295,0.6384302855892454,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Arachnoid cyst,43,0.7029843541471448,0.092766461656774,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Empty sella syndrome,45,0.6180334557323541,0.08113553757253661,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cyst of pineal gland,21,0.7426533038899269,0.06096817321711886,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral edema,43,0.8996223414828066,0.4770366715614291,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Mastoiditis,22,0.6517316017316017,0.06783476862794859,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Ventriculomegaly,64,0.8952459273182957,0.4113785545890003,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cerebellar degeneration,39,0.8365267782035705,0.319730827633077,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Mega cisterna magna,22,0.6320887445887446,0.038205757420228,queryseq,2,availability,T1ax+T2ax+SWIax,3,-1
+Cerebral infarction,26,0.8503404490246596,0.34927820774482365,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral hemorrhage,20,0.8776128266033254,0.21010043651724983,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Gliosis,284,0.7309201228130027,0.5723924067025429,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral atrophy,102,0.9265350877192983,0.6886335229248676,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Arachnoid cyst,43,0.6999744441604907,0.09790230195477055,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Empty sella syndrome,45,0.6279613763089895,0.08266446849472597,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cyst of pineal gland,21,0.72974350263292,0.055888785189744,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral edema,43,0.9043927648578812,0.4767235864286016,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mastoiditis,22,0.6850108225108225,0.060238385818621315,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Ventriculomegaly,64,0.9011983082706767,0.44896263438238654,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebellar degeneration,39,0.8358725114496682,0.32620762187745833,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Mega cisterna magna,22,0.5911255411255412,0.032638037562614894,queryseq,2,availability,T1ax+T2ax+FLAIRsag,3,-1
+Cerebral infarction,26,0.8506624953993376,0.36615134071940425,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral hemorrhage,20,0.8751781472684086,0.1772668627867422,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Gliosis,284,0.7234697109995614,0.5794922134078863,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral atrophy,102,0.9321078431372549,0.7039623277983895,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Arachnoid cyst,43,0.7047448675355652,0.09844237229973629,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Empty sella syndrome,45,0.6060927512579899,0.07862374725863137,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cyst of pineal gland,21,0.7305362097276484,0.05987461067359711,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral edema,43,0.9115767952977255,0.5412339429091692,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Mastoiditis,22,0.68241341991342,0.07028986280848956,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Ventriculomegaly,64,0.9027255639097744,0.43615698520490725,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebellar degeneration,39,0.8521980247375145,0.29284356374630277,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Mega cisterna magna,22,0.6409090909090909,0.037641159545297176,queryseq,2,availability,T1ax+T2ax+FLAIRax,3,-1
+Cerebral infarction,26,0.8451417004048584,0.347413951479077,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8821258907363421,0.1668741523647815,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7299576002729178,0.5824930290762903,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9344298245614034,0.7199796566527032,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.7076979867677542,0.09679702474285587,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6270093839249287,0.07745786643047156,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7442953400147218,0.05769495798456595,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9148990544339382,0.496053415330697,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6676948051948053,0.06719531751107685,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8995339912280701,0.4471971067550729,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8552824251487678,0.29722044023181143,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6405844155844155,0.03854208272724871,queryseq,2,availability,T2ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8458317997791682,0.3551146976664345,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8824821852731591,0.16766859232264217,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7275452020078952,0.5942113431584042,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.939202786377709,0.7341561719487589,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.7011954453814919,0.09446477712182749,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6260301917584659,0.07730213520385057,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7419172187305363,0.06492696476043427,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.920606525257688,0.5180615630989,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6618506493506494,0.06113718826201618,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8986724624060151,0.4381932368895056,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.853755802722996,0.29978883555243996,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6333874458874459,0.03860275393446405,queryseq,2,availability,T1ax+FLAIRax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8519506808980494,0.32069278673784474,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral hemorrhage,20,0.8841448931116389,0.17797615447480422,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Gliosis,284,0.7317729908864954,0.5812065384693164,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral atrophy,102,0.9264060887512899,0.6910610855350847,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Arachnoid cyst,43,0.702842377260982,0.09457731142785392,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Empty sella syndrome,45,0.6261933904528764,0.07751803271212088,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cyst of pineal gland,21,0.7454277787214767,0.06102738044708997,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral edema,43,0.9102422125677939,0.47756618583980004,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mastoiditis,22,0.6636363636363636,0.06469530266391274,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Ventriculomegaly,64,0.8993969298245615,0.448378011772005,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebellar degeneration,39,0.8379599339502134,0.3245325064520176,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Mega cisterna magna,22,0.6121753246753247,0.03577678800286297,queryseq,2,availability,T1ax+T2ax+FLAIRsag+SWIax,4,-1
+Cerebral infarction,26,0.8504324622745676,0.3562567777911905,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral hemorrhage,20,0.877375296912114,0.16596606606199413,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Gliosis,284,0.7257846386276134,0.5863125693924482,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral atrophy,102,0.930843653250774,0.7030017807487423,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Arachnoid cyst,43,0.705028821307891,0.09400357807222064,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Empty sella syndrome,45,0.6187678498572011,0.0793241703326904,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cyst of pineal gland,21,0.7436724987260065,0.06247012184530714,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral edema,43,0.9122014935968423,0.5152741996155251,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mastoiditis,22,0.6616341991341991,0.07076726552195885,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Ventriculomegaly,64,0.9014136904761905,0.4356899666446295,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebellar degeneration,39,0.8522914914166434,0.29701958445877036,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Mega cisterna magna,22,0.6502705627705628,0.039971888871223465,queryseq,2,availability,T1ax+T2ax+FLAIRax+SWIax,4,-1
+Cerebral infarction,26,0.8495583364004416,0.37013728927910483,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral hemorrhage,20,0.8805225653206651,0.18592788523339648,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Gliosis,284,0.7289524343291582,0.5804275647074297,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral atrophy,102,0.936390608875129,0.7205933621099226,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Arachnoid cyst,43,0.7052559843257518,0.10083112756557673,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Empty sella syndrome,45,0.6201822385420916,0.07918462002369485,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cyst of pineal gland,21,0.733367306494536,0.0596017667331145,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral edema,43,0.915665729619218,0.5345564558595968,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mastoiditis,22,0.6862554112554112,0.0622271532848483,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Ventriculomegaly,64,0.9026668233082706,0.44924011907276673,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebellar degeneration,39,0.8518241580209989,0.29830938143125746,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Mega cisterna magna,22,0.6193181818181818,0.035268792847443664,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag,4,-1
+Cerebral infarction,26,0.8504324622745676,0.3651298915527916,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral hemorrhage,20,0.882957244655582,0.17134034234211099,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Gliosis,284,0.7302743798430723,0.5863957777856583,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral atrophy,102,0.9357327141382868,0.719251595473492,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Arachnoid cyst,43,0.7058806826248687,0.09648240125224175,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Empty sella syndrome,45,0.6249422004623963,0.07694285291088354,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cyst of pineal gland,21,0.7452012909801257,0.06252700002889273,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral edema,43,0.9162904279183349,0.512031403887201,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mastoiditis,22,0.6693181818181817,0.06631178603805822,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Ventriculomegaly,64,0.901374530075188,0.4443653272339021,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebellar degeneration,39,0.8526342025734492,0.31261656480296474,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Mega cisterna magna,22,0.6330627705627705,0.03761902169087511,queryseq,2,availability,T1ax+T2ax+FLAIRax+FLAIRsag+SWIax,5,-1
+Cerebral infarction,26,0.8353882959146117,0.3374688757576387,queryseq,2,budget,allinputs,1,1
+Cerebral hemorrhage,20,0.8570071258907364,0.15358954136194322,queryseq,2,budget,allinputs,1,1
+Gliosis,284,0.7052366099712462,0.5513304085154409,queryseq,2,budget,allinputs,1,1
+Cerebral atrophy,102,0.930998452012384,0.7089170781008118,queryseq,2,budget,allinputs,1,1
+Arachnoid cyst,43,0.7070732884686373,0.09620805257699469,queryseq,2,budget,allinputs,1,1
+Empty sella syndrome,45,0.6254045967632259,0.08795754942802277,queryseq,2,budget,allinputs,1,1
+Cyst of pineal gland,21,0.720910480720231,0.05056143811769426,queryseq,2,budget,allinputs,1,1
+Cerebral edema,43,0.9089644205923276,0.5035900198749382,queryseq,2,budget,allinputs,1,1
+Mastoiditis,22,0.6380411255411255,0.06725528287046363,queryseq,2,budget,allinputs,1,1
+Ventriculomegaly,64,0.8953046679197995,0.4285405943392527,queryseq,2,budget,allinputs,1,1
+Cerebellar degeneration,39,0.8622301149640154,0.2799796927056667,queryseq,2,budget,allinputs,1,1
+Mega cisterna magna,22,0.637012987012987,0.03777459636118653,queryseq,2,budget,allinputs,1,1
+Cerebral infarction,26,0.8430253956569745,0.3497136755115947,queryseq,2,budget,allinputs,2,2
+Cerebral hemorrhage,20,0.8740498812351545,0.16072365100187647,queryseq,2,budget,allinputs,2,2
+Gliosis,284,0.7164518251376772,0.5683530215254442,queryseq,2,budget,allinputs,2,2
+Cerebral atrophy,102,0.932920536635707,0.6950730741929788,queryseq,2,budget,allinputs,2,2
+Arachnoid cyst,43,0.7110770366584319,0.09843410359744724,queryseq,2,budget,allinputs,2,2
+Empty sella syndrome,45,0.6301645586835305,0.08077425630631818,queryseq,2,budget,allinputs,2,2
+Cyst of pineal gland,21,0.728611063926165,0.04932545818565955,queryseq,2,budget,allinputs,2,2
+Cerebral edema,43,0.9131669364227504,0.5127040886111275,queryseq,2,budget,allinputs,2,2
+Mastoiditis,22,0.6652597402597402,0.07210846265742923,queryseq,2,budget,allinputs,2,2
+Ventriculomegaly,64,0.8998668546365916,0.44525361165705,queryseq,2,budget,allinputs,2,2
+Cerebellar degeneration,39,0.8521045580583856,0.27814127183381626,queryseq,2,budget,allinputs,2,2
+Mega cisterna magna,22,0.6305194805194806,0.038499857281855766,queryseq,2,budget,allinputs,2,2
+Cerebral infarction,26,0.8479020979020979,0.3699523155866723,queryseq,2,budget,allinputs,3,3
+Cerebral hemorrhage,20,0.8887767220902614,0.17047963015821851,queryseq,2,budget,allinputs,3,3
+Gliosis,284,0.7251023441688192,0.5845407678617884,queryseq,2,budget,allinputs,3,3
+Cerebral atrophy,102,0.9286377708978328,0.7160934325007025,queryseq,2,budget,allinputs,3,3
+Arachnoid cyst,43,0.7109350597722691,0.09914237211544015,queryseq,2,budget,allinputs,3,3
+Empty sella syndrome,45,0.6385964912280702,0.0807970533282831,queryseq,2,budget,allinputs,3,3
+Cyst of pineal gland,21,0.7282147103788007,0.05269447650569899,queryseq,2,budget,allinputs,3,3
+Cerebral edema,43,0.9158077065053809,0.5105968936950449,queryseq,2,budget,allinputs,3,3
+Mastoiditis,22,0.662987012987013,0.06225206594802586,queryseq,2,budget,allinputs,3,3
+Ventriculomegaly,64,0.9000822368421052,0.4371016040663029,queryseq,2,budget,allinputs,3,3
+Cerebellar degeneration,39,0.8495186466024862,0.3287581575151444,queryseq,2,budget,allinputs,3,3
+Mega cisterna magna,22,0.6399350649350649,0.0382010708807065,queryseq,2,budget,allinputs,3,3
+Cerebral infarction,26,0.8491442767758558,0.34209458285069944,queryseq,2,budget,allinputs,4,4
+Cerebral hemorrhage,20,0.8866389548693586,0.17812490830491193,queryseq,2,budget,allinputs,4,4
+Gliosis,284,0.7303901262244749,0.5871786768866764,queryseq,2,budget,allinputs,4,4
+Cerebral atrophy,102,0.9357069143446852,0.7087020102416383,queryseq,2,budget,allinputs,4,4
+Arachnoid cyst,43,0.7070732884686373,0.10022196165856082,queryseq,2,budget,allinputs,4,4
+Empty sella syndrome,45,0.6279613763089895,0.07954121509717911,queryseq,2,budget,allinputs,4,4
+Cyst of pineal gland,21,0.7389728780929732,0.06176142852378578,queryseq,2,budget,allinputs,4,4
+Cerebral edema,43,0.914018797739728,0.49825392657043677,queryseq,2,budget,allinputs,4,4
+Mastoiditis,22,0.6687229437229437,0.061709516034229736,queryseq,2,budget,allinputs,4,4
+Ventriculomegaly,64,0.9008262844611529,0.4490703328437029,queryseq,2,budget,allinputs,4,4
+Cerebellar degeneration,39,0.8491759354456803,0.31136793980781263,queryseq,2,budget,allinputs,4,4
+Mega cisterna magna,22,0.6393398268398268,0.038926720686356525,queryseq,2,budget,allinputs,4,4
+Cerebral infarction,26,0.8531468531468531,0.3478600638671821,queryseq,2,budget,allinputs,5,5
+Cerebral hemorrhage,20,0.8810570071258907,0.18257119071216335,queryseq,2,budget,allinputs,5,5
+Gliosis,284,0.7326563185340416,0.5851500321309429,queryseq,2,budget,allinputs,5,5
+Cerebral atrophy,102,0.9320304437564499,0.6963323310452858,queryseq,2,budget,allinputs,5,5
+Arachnoid cyst,43,0.7024732373569583,0.09860305534005853,queryseq,2,budget,allinputs,5,5
+Empty sella syndrome,45,0.6266285869713042,0.0806705657896093,queryseq,2,budget,allinputs,5,5
+Cyst of pineal gland,21,0.7529584961213974,0.06558655505099029,queryseq,2,budget,allinputs,5,5
+Cerebral edema,43,0.9125138427464009,0.5122780592862255,queryseq,2,budget,allinputs,5,5
+Mastoiditis,22,0.669534632034632,0.061301325902921616,queryseq,2,budget,allinputs,5,5
+Ventriculomegaly,64,0.8992402882205515,0.44523025678958406,queryseq,2,budget,allinputs,5,5
+Cerebellar degeneration,39,0.8467146462286195,0.31052282837047657,queryseq,2,budget,allinputs,5,5
+Mega cisterna magna,22,0.610551948051948,0.035638397955688184,queryseq,2,budget,allinputs,5,5

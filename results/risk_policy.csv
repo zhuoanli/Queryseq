@@ -1,0 +1,496 @@
+seed,fold,finding,subset,k,certified
+0,0,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+0,0,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Demyelinating disease of central nervous system,FLAIRax,1,True
+0,0,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Spinal cord compression,T2ax,1,True
+0,0,Lacunar infarct,T1ax+T2ax,2,True
+0,0,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Subdural intracranial hemorrhage,T1ax,1,True
+0,0,Gliosis,T2ax+FLAIRax,2,True
+0,0,Cerebral atrophy,T2ax,1,True
+0,0,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+0,0,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Spinal stenosis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Ventriculomegaly,T2ax+T2cor,2,True
+0,0,Cerebellar degeneration,T1ax+FLAIRax,2,True
+0,0,Mega cisterna magna,T2ax+FLAIRax+T2cor,3,True
+0,0,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Hyperostosis of skull,T1ax+T2cor,2,True
+0,0,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,0,Glioma,T1ax+FLAIRax+T2cor,3,True
+0,0,Pituitary adenoma,T1ax+T2ax,2,True
+0,1,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+0,1,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Metastatic malignant neoplasm to brain,FLAIRax,1,True
+0,1,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+0,1,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Spinal cord compression,T1ax+T2ax,2,True
+0,1,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Cavernous hemangioma,T1ax+T2ax+FLAIRax,3,True
+0,1,Subdural intracranial hemorrhage,T1ax,1,True
+0,1,Gliosis,T2ax+FLAIRax,2,True
+0,1,Cerebral atrophy,T2ax,1,True
+0,1,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Empty sella syndrome,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Cyst of pineal gland,FLAIRax+T2cor,2,True
+0,1,Rathke's pouch cyst,T1ax+T2ax+FLAIRax,3,True
+0,1,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Spinal stenosis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Ventriculomegaly,T2ax+T2cor,2,True
+0,1,Cerebellar degeneration,T1ax+FLAIRax,2,True
+0,1,Mega cisterna magna,T2ax+FLAIRax+T2cor,3,True
+0,1,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Hyperostosis of skull,T1ax+T2cor,2,True
+0,1,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,1,Glioma,FLAIRax+T2cor,2,True
+0,1,Pituitary adenoma,T1ax+T2ax,2,True
+0,2,Cerebral infarction,FLAIRax+T2cor,2,True
+0,2,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Metastatic malignant neoplasm to brain,FLAIRax,1,True
+0,2,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+0,2,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Spinal cord compression,T2ax,1,True
+0,2,Lacunar infarct,T1ax+T2ax+FLAIRax,3,True
+0,2,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Subdural intracranial hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Gliosis,T2ax+FLAIRax,2,True
+0,2,Cerebral atrophy,T2ax,1,True
+0,2,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Empty sella syndrome,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Rathke's pouch cyst,T1ax+T2ax+FLAIRax,3,True
+0,2,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Spinal stenosis,T1ax+T2ax,2,True
+0,2,Mastoiditis,T2ax+FLAIRax+T2cor,3,True
+0,2,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Ventriculomegaly,T2ax+T2cor,2,True
+0,2,Cerebellar degeneration,T1ax+FLAIRax,2,True
+0,2,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Hyperostosis of skull,T1ax+T2cor,2,True
+0,2,Choroid plexus cyst,T1ax,1,True
+0,2,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,2,Glioma,T1ax+FLAIRax+T2cor,3,True
+0,2,Pituitary adenoma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+0,3,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Metastatic malignant neoplasm to brain,FLAIRax,1,True
+0,3,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+0,3,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Spinal cord compression,T2ax,1,True
+0,3,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Subdural intracranial hemorrhage,T1ax,1,True
+0,3,Gliosis,T2ax+FLAIRax,2,True
+0,3,Cerebral atrophy,T2ax,1,True
+0,3,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Empty sella syndrome,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Cerebral edema,T1ax+T2cor,2,True
+0,3,Spinal stenosis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Ventriculomegaly,T2ax+T2cor,2,True
+0,3,Cerebellar degeneration,T1ax+FLAIRax,2,True
+0,3,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Hyperostosis of skull,T1ax+T2cor,2,True
+0,3,Choroid plexus cyst,T1ax+T2ax,2,True
+0,3,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,3,Glioma,T1ax+FLAIRax+T2cor,3,True
+0,3,Pituitary adenoma,T1ax+T2ax,2,True
+0,4,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+0,4,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Metastatic malignant neoplasm to brain,FLAIRax,1,True
+0,4,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+0,4,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Spinal cord compression,T2ax,1,True
+0,4,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Subdural intracranial hemorrhage,FLAIRax,1,True
+0,4,Gliosis,T2ax+FLAIRax,2,True
+0,4,Cerebral atrophy,T2ax,1,True
+0,4,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+0,4,Intracranial aneurysm,T1ax+T2ax+FLAIRax,3,True
+0,4,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Rathke's pouch cyst,T1ax+T2ax+FLAIRax,3,True
+0,4,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Spinal stenosis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Ventriculomegaly,T2ax+T2cor,2,True
+0,4,Cerebellar degeneration,T1ax,1,True
+0,4,Mega cisterna magna,T2ax+T2cor,2,True
+0,4,Structure of cave of septum pellucidum,T2ax+FLAIRax+T2cor,3,True
+0,4,Hyperostosis of skull,T1ax,1,True
+0,4,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+0,4,Lipoma of brain,T2ax+FLAIRax,2,True
+0,4,Glioma,T1ax+FLAIRax+T2cor,3,True
+0,4,Pituitary adenoma,T1ax+T2ax,2,True
+1,0,Cerebral infarction,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Cerebral hemorrhage,T1ax+FLAIRax+T2cor,3,True
+1,0,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Demyelinating disease of central nervous system,T2ax+FLAIRax+T2cor,3,True
+1,0,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Spinal cord compression,T1ax+T2ax+T2cor,3,True
+1,0,Lacunar infarct,T1ax+T2ax+FLAIRax,3,True
+1,0,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Cavernous hemangioma,T1ax+T2ax+FLAIRax,3,True
+1,0,Subdural intracranial hemorrhage,T1ax,1,True
+1,0,Gliosis,FLAIRax,1,True
+1,0,Cerebral atrophy,T2ax,1,True
+1,0,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+1,0,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Spinal stenosis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Ventriculomegaly,T1ax+T2ax,2,True
+1,0,Cerebellar degeneration,T1ax,1,True
+1,0,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Hyperostosis of skull,T2ax,1,True
+1,0,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,0,Glioma,FLAIRax+T2cor,2,True
+1,0,Pituitary adenoma,T1ax+T2ax,2,True
+1,1,Cerebral infarction,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+1,1,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Spinal cord compression,T1ax+T2ax+T2cor,3,True
+1,1,Lacunar infarct,T1ax+T2ax+FLAIRax,3,True
+1,1,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Subdural intracranial hemorrhage,T1ax,1,True
+1,1,Gliosis,FLAIRax,1,True
+1,1,Cerebral atrophy,T2ax,1,True
+1,1,Encephalomalacia,T1ax+T2ax+T2cor,3,True
+1,1,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+1,1,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Chiari malformation,T2ax+FLAIRax,2,True
+1,1,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Spinal stenosis,T1ax+T2ax+FLAIRax,3,True
+1,1,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Ventriculomegaly,T2ax+T2cor,2,True
+1,1,Cerebellar degeneration,T1ax,1,True
+1,1,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,1,Hyperostosis of skull,T1ax+T2ax,2,True
+1,1,Choroid plexus cyst,T1ax+T2ax,2,True
+1,1,Lipoma of brain,T1ax+T2ax,2,True
+1,1,Glioma,FLAIRax+T2cor,2,True
+1,1,Pituitary adenoma,T1ax+T2ax,2,True
+1,2,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+1,2,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Demyelinating disease of central nervous system,T2ax+FLAIRax+T2cor,3,True
+1,2,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Spinal cord compression,T1ax+T2ax,2,True
+1,2,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Cavernous hemangioma,T1ax+T2ax+FLAIRax,3,True
+1,2,Subdural intracranial hemorrhage,T1ax,1,True
+1,2,Gliosis,T2ax+FLAIRax,2,True
+1,2,Cerebral atrophy,FLAIRax,1,True
+1,2,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+1,2,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Spinal stenosis,T1ax+T2ax+FLAIRax,3,True
+1,2,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Ventriculomegaly,T1ax+T2ax,2,True
+1,2,Cerebellar degeneration,T1ax,1,True
+1,2,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Hyperostosis of skull,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,2,Glioma,T1ax+FLAIRax+T2cor,3,True
+1,2,Pituitary adenoma,T2ax,1,True
+1,3,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+1,3,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Demyelinating disease of central nervous system,T2ax+FLAIRax+T2cor,3,True
+1,3,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Spinal cord compression,T2ax,1,True
+1,3,Lacunar infarct,T1ax+T2ax+FLAIRax,3,True
+1,3,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Subdural intracranial hemorrhage,T1ax,1,True
+1,3,Gliosis,T2ax+FLAIRax,2,True
+1,3,Cerebral atrophy,T2ax,1,True
+1,3,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Empty sella syndrome,T1ax+T2ax,2,True
+1,3,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Chiari malformation,T2ax+FLAIRax,2,True
+1,3,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Rathke's pouch cyst,T1ax+T2ax+FLAIRax,3,True
+1,3,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Spinal stenosis,T1ax+T2ax+FLAIRax,3,True
+1,3,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Ventriculomegaly,T1ax+T2ax,2,True
+1,3,Cerebellar degeneration,T1ax,1,True
+1,3,Mega cisterna magna,T2ax+FLAIRax+T2cor,3,True
+1,3,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Hyperostosis of skull,T1ax+T2ax+T2cor,3,True
+1,3,Choroid plexus cyst,T1ax+T2ax,2,True
+1,3,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,3,Glioma,T2cor,1,True
+1,3,Pituitary adenoma,T2ax,1,True
+1,4,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+1,4,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Demyelinating disease of central nervous system,T2ax+FLAIRax+T2cor,3,True
+1,4,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Spinal cord compression,T1ax+T2ax,2,True
+1,4,Lacunar infarct,T1ax+T2ax+FLAIRax,3,True
+1,4,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Cavernous hemangioma,T1ax+T2ax,2,True
+1,4,Subdural intracranial hemorrhage,T1ax,1,True
+1,4,Gliosis,T2ax+FLAIRax,2,True
+1,4,Cerebral atrophy,FLAIRax,1,True
+1,4,Encephalomalacia,T1ax+T2ax+T2cor,3,True
+1,4,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+1,4,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Chiari malformation,T2ax+FLAIRax,2,True
+1,4,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Cerebral edema,T1ax+T2ax+FLAIRax,3,True
+1,4,Spinal stenosis,T2ax,1,True
+1,4,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Ventriculomegaly,T1ax+T2ax,2,True
+1,4,Cerebellar degeneration,T1ax+FLAIRax,2,True
+1,4,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Hyperostosis of skull,T1ax+T2ax,2,True
+1,4,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+1,4,Glioma,FLAIRax+T2cor,2,True
+1,4,Pituitary adenoma,T1ax+T2ax,2,True
+2,0,Cerebral infarction,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Metastatic malignant neoplasm to brain,T2ax+FLAIRax,2,True
+2,0,Intracranial meningioma,T1ax+T2ax+FLAIRax,3,True
+2,0,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+2,0,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Spinal cord compression,T1ax+T2ax+T2cor,3,True
+2,0,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Subdural intracranial hemorrhage,FLAIRax+T2cor,2,True
+2,0,Gliosis,T2ax+FLAIRax,2,True
+2,0,Cerebral atrophy,T2ax,1,True
+2,0,Encephalomalacia,T1ax+T2ax+FLAIRax,3,True
+2,0,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+2,0,Intracranial aneurysm,T1ax+T2ax+FLAIRax,3,True
+2,0,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Spinal stenosis,T1ax+T2ax+FLAIRax,3,True
+2,0,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Ventriculomegaly,T2ax,1,True
+2,0,Cerebellar degeneration,T1ax,1,True
+2,0,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Hyperostosis of skull,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,0,Glioma,FLAIRax+T2cor,2,True
+2,0,Pituitary adenoma,T1ax+T2ax,2,True
+2,1,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+2,1,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Metastatic malignant neoplasm to brain,T1ax+FLAIRax,2,True
+2,1,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Demyelinating disease of central nervous system,FLAIRax,1,True
+2,1,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Spinal cord compression,T1ax+T2ax,2,True
+2,1,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Subdural intracranial hemorrhage,T1ax,1,True
+2,1,Gliosis,T2ax+FLAIRax,2,True
+2,1,Cerebral atrophy,T2ax,1,True
+2,1,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Empty sella syndrome,T1ax+T2ax,2,True
+2,1,Intracranial aneurysm,T1ax+T2ax+FLAIRax,3,True
+2,1,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Cerebral edema,T1ax+FLAIRax+T2cor,3,True
+2,1,Spinal stenosis,T1ax+T2ax+FLAIRax,3,True
+2,1,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Ventriculomegaly,T1ax+T2ax,2,True
+2,1,Cerebellar degeneration,T1ax+FLAIRax,2,True
+2,1,Mega cisterna magna,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Hyperostosis of skull,T1ax+FLAIRax+T2cor,3,True
+2,1,Choroid plexus cyst,T1ax+T2ax,2,True
+2,1,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,1,Glioma,FLAIRax+T2cor,2,True
+2,1,Pituitary adenoma,T2ax,1,True
+2,2,Cerebral infarction,T2ax+FLAIRax+T2cor,3,True
+2,2,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Metastatic malignant neoplasm to brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Demyelinating disease of central nervous system,T2ax+FLAIRax+T2cor,3,True
+2,2,Herniation of nucleus pulposus,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Spinal cord compression,T2ax+T2cor,2,True
+2,2,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Cavernous hemangioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Subdural intracranial hemorrhage,T1ax,1,True
+2,2,Gliosis,T2ax+FLAIRax,2,True
+2,2,Cerebral atrophy,T2ax,1,True
+2,2,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+2,2,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Cyst of pineal gland,T2cor,1,True
+2,2,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Spinal stenosis,T1ax+T2ax,2,True
+2,2,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Ventriculomegaly,T2ax,1,True
+2,2,Cerebellar degeneration,T1ax+T2ax,2,True
+2,2,Mega cisterna magna,T2ax+FLAIRax+T2cor,3,True
+2,2,Structure of cave of septum pellucidum,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Hyperostosis of skull,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,2,Glioma,T1ax+FLAIRax+T2cor,3,True
+2,2,Pituitary adenoma,T1ax+T2ax,2,True
+2,3,Cerebral infarction,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Metastatic malignant neoplasm to brain,T2ax+FLAIRax,2,True
+2,3,Intracranial meningioma,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Demyelinating disease of central nervous system,FLAIRax,1,True
+2,3,Herniation of nucleus pulposus,T1ax+FLAIRax+T2cor,3,True
+2,3,Spinal cord compression,T1ax+T2ax+T2cor,3,True
+2,3,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Cavernous hemangioma,T1ax+T2ax,2,True
+2,3,Subdural intracranial hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Gliosis,T2ax+FLAIRax,2,True
+2,3,Cerebral atrophy,T2ax,1,True
+2,3,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Empty sella syndrome,T1ax+T2ax,2,True
+2,3,Intracranial aneurysm,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Spinal stenosis,T1ax+T2ax,2,True
+2,3,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Ventriculomegaly,T2ax,1,True
+2,3,Cerebellar degeneration,FLAIRax+T2cor,2,True
+2,3,Mega cisterna magna,T2ax+FLAIRax+T2cor,3,True
+2,3,Structure of cave of septum pellucidum,T2ax+FLAIRax+T2cor,3,True
+2,3,Hyperostosis of skull,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,3,Glioma,FLAIRax+T2cor,2,True
+2,3,Pituitary adenoma,T1ax+T2ax,2,True
+2,4,Cerebral infarction,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Cerebral hemorrhage,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Metastatic malignant neoplasm to brain,T1ax+FLAIRax,2,True
+2,4,Intracranial meningioma,T1ax+T2ax+FLAIRax,3,True
+2,4,Demyelinating disease of central nervous system,T2ax+FLAIRax,2,True
+2,4,Herniation of nucleus pulposus,T1ax+FLAIRax+T2cor,3,True
+2,4,Spinal cord compression,T2ax,1,True
+2,4,Lacunar infarct,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Silent micro-hemorrhage of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Cavernous hemangioma,T1ax+T2ax,2,True
+2,4,Subdural intracranial hemorrhage,T1ax,1,True
+2,4,Gliosis,T2ax+FLAIRax,2,True
+2,4,Cerebral atrophy,T2ax,1,True
+2,4,Encephalomalacia,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Arachnoid cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Empty sella syndrome,T1ax+T2ax+FLAIRax,3,True
+2,4,Intracranial aneurysm,T1ax+T2ax+FLAIRax,3,True
+2,4,Chiari malformation,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Cyst of pineal gland,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Rathke's pouch cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Cerebral edema,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Spinal stenosis,T1ax+T2ax,2,True
+2,4,Mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Chronic mastoiditis,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Ventriculomegaly,T1ax+T2ax,2,True
+2,4,Cerebellar degeneration,T1ax+T2ax,2,True
+2,4,Mega cisterna magna,T2ax+T2cor,2,True
+2,4,Structure of cave of septum pellucidum,T2ax+FLAIRax+T2cor,3,True
+2,4,Hyperostosis of skull,FLAIRax+T2cor,2,True
+2,4,Choroid plexus cyst,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Lipoma of brain,T1ax+T2ax+FLAIRax+T2cor,4,True
+2,4,Glioma,T1ax+FLAIRax+T2cor,3,True
+2,4,Pituitary adenoma,T2ax,1,True
