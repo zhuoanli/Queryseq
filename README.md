@@ -1,8 +1,7 @@
 # QuerySeq: Finding-Specific MRI Evidence, Measured Without Selection Optimism
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-![Dataset](https://img.shields.io/badge/data-BraTS--GoAT-orange.svg)
-![Evaluation](https://img.shields.io/badge/evaluation-selection--aware-success.svg)
+[![Dataset](https://img.shields.io/badge/data-BraTS--GoAT-orange.svg)](https://www.synapse.org/brats_goat)
 
 Code and result tables for *Not Every Finding Needs Every Sequence:
 Measuring Finding-Specific MRI Evidence with Nested Selection*.
